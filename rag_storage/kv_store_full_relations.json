@@ -1,0 +1,7446 @@
+{
+  "doc-1866965ecb03c325fb042a6a116cbcfe": {
+    "relation_pairs": [
+      [
+        "Aspirin",
+        "medication"
+      ],
+      [
+        "1739419d-98e4-5f73-8b83-aa414dcf46a3",
+        "27922ec8-28bf-425c-eda0-0f75c740180d"
+      ],
+      [
+        "1739419d-98e4-5f73-8b83-aa414dcf46a3",
+        "Aspirin"
+      ],
+      [
+        "Allergic disposition (finding)",
+        "SNOMED-CT"
+      ],
+      [
+        "Aspirin",
+        "RxNorm"
+      ],
+      [
+        "1739419d-98e4-5f73-8b83-aa414dcf46a3",
+        "Allergic disposition (finding)"
+      ],
+      [
+        "Allergic disposition (finding)",
+        "environment"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1759304109,
+    "update_time": 1759304109,
+    "_id": "doc-1866965ecb03c325fb042a6a116cbcfe"
+  },
+  "doc-19bae731b3d21ce5ce34d6d17c9c4d92": {
+    "relation_pairs": [
+      [
+        "Fracture care (regime/therapy)",
+        "Fracture of forearm (disorder)"
+      ],
+      [
+        "Chronic congestive heart failure (disorder)",
+        "Inpatient care plan (record artifact)"
+      ],
+      [
+        "98812f8c-3e6e-c9cc-ab30-a73449c05f8f",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "e86c4674-fb60-48b5-9c47-dbd7041b698f"
+      ],
+      [
+        "Respiratory therapy",
+        "Routine antenatal care"
+      ],
+      [
+        "59621000",
+        "Essential hypertension (disorder)"
+      ],
+      [
+        "714628002",
+        "Prediabetes (finding)"
+      ],
+      [
+        "Hyperlipidemia",
+        "Person 12"
+      ],
+      [
+        "87f4c224-97db-ebce-0a90-150370d2b56b",
+        "Care Plan"
+      ],
+      [
+        "Infectious disease care plan",
+        "PATIENT dfa014f4-cbd0-8d37-7134-1fcbc1010c96"
+      ],
+      [
+        "Discharge care plan",
+        "Person 14"
+      ],
+      [
+        "Organization ID 10b577c3-b668-2306-08db-d603cb3cb6d2",
+        "Routine antenatal care"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "dcc2b5cb-8a92-eb25-a26e-8f369d981786"
+      ],
+      [
+        "2b21e2082aba",
+        "9194-c8b5b9b9e9bc"
+      ],
+      [
+        "Physiotherapy care plan (record artifact)",
+        "Sprain of ankle (disorder)"
+      ],
+      [
+        "Asthma self management",
+        "Childhood asthma"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "d98b86fe-9c6b-3f17-4f92-df0b3668f1a6"
+      ],
+      [
+        "Minor surgery care management",
+        "PATIENT 1603f9c6-c49e-358f-cc1c-4c92c7924dbd"
+      ],
+      [
+        "PATIENT 1739419d-98e4-5f73-8b83-aa414dcf46a3",
+        "Self-care interventions"
+      ],
+      [
+        "Person 5",
+        "Surgical inpatient care plan"
+      ],
+      [
+        "Person ID 34fdb73c-82f6-0839-8f19-fbc9b6966480",
+        "Routine antenatal care"
+      ],
+      [
+        "Event: 1985-08-27",
+        "Person 1"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Fracture care (regime/therapy)"
+      ],
+      [
+        "Person ID f16ab8c1-7f17-dc6c-2d5c-09800978009c",
+        "Physiotherapy care plan"
+      ],
+      [
+        "Infectious disease care plan",
+        "Musculoskeletal care"
+      ],
+      [
+        "Event: 2014-02-01 to 2014-06-24",
+        "Person 1"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "5f4f3721-edf5-62a0-67ba-9a40ef196170"
+      ],
+      [
+        "179bc71e-d6e2-5a84-f73e-0623a6f5fbd0",
+        "Routine Antenatal Care"
+      ],
+      [
+        "Discharge care plan",
+        "Person 13"
+      ],
+      [
+        "735984001",
+        "Heart failure self management plan (record artifact)"
+      ],
+      [
+        "Chronic Obstructive Bronchitis",
+        "Chronic Obstructive Pulmonary Disease Clinical Management Plan"
+      ],
+      [
+        "1231000119100",
+        "History of aortic valve replacement (situation)"
+      ],
+      [
+        "Fracture care",
+        "Person 1"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "721520fe-089d-c5b9-646a-2642a8d2c48f"
+      ],
+      [
+        "Dementia management",
+        "Person 1"
+      ],
+      [
+        "7768d436-0ee2-cfe7-730d-e3aef6f05005",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "History of aortic valve replacement",
+        "Person 13"
+      ],
+      [
+        "Fracture care",
+        "PATIENT 004e8cce-7045-8cbe-9fe0-1df5305b2003"
+      ],
+      [
+        "2400f57e-0dbf-9feb-9b79-009466ae18d9",
+        "9500638b-57d8-8b8f-c87e-961e7dabac25"
+      ],
+      [
+        "PATIENT 004e8cce-7045-8cbe-9fe0-1df5305b2003",
+        "Respiratory therapy"
+      ],
+      [
+        "Event: 2015-01-20",
+        "Person 1"
+      ],
+      [
+        "443402002",
+        "Lifestyle education regarding hypertension (procedure)"
+      ],
+      [
+        "Discharge care plan",
+        "Person 2"
+      ],
+      [
+        "Discharge care plan",
+        "Person 10"
+      ],
+      [
+        "History of aortic valve replacement",
+        "Surgical inpatient care plan"
+      ],
+      [
+        "Organization ID 23479019-fd1e-2b8b-c892-7be8d51849d4",
+        "Weight management program"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Care plan (record artifact)"
+      ],
+      [
+        "Diabetes self management plan",
+        "Organization ID 23479019-fd1e-2b8b-c892-7be8d51849d4"
+      ],
+      [
+        "0ace1fc4-89aa-0f6e-6c08-2b21e2082aba",
+        "10b577c3-b668-2306-08db-d603cb3cb6d2"
+      ],
+      [
+        "Discharge care plan",
+        "Event: 2005-12-15"
+      ],
+      [
+        "Event: 1933-03-01",
+        "Person 1"
+      ],
+      [
+        "Organization ID 58988810-805f-fcc1-0d46-689772c68b3e",
+        "Routine antenatal care"
+      ],
+      [
+        "10766c4e-e40f-a20d-dd9f-866253c6104c",
+        "3d39f0d2-1133-0fc5-374f-d303cce99daa"
+      ],
+      [
+        "History of aortic valve replacement",
+        "Person 10"
+      ],
+      [
+        "Event: 1994-02-22",
+        "Hyperlipidemia"
+      ],
+      [
+        "10b577c3-b668-2306-08db-d603cb3cb6d2",
+        "15b660bf-3429-1a1c-e4e8-5a4298da4528"
+      ],
+      [
+        "Musculoskeletal Care",
+        "Osteoarthritis of Hip"
+      ],
+      [
+        "28e2fc1b-5c8e-468d-dd0f-476c234bd8be",
+        "938d0c5e-1804-9698-bbce-e3b88244936f"
+      ],
+      [
+        "Discharge care plan",
+        "Person 3"
+      ],
+      [
+        "Chronic Congestive Heart Failure",
+        "Inpatient Care Plan"
+      ],
+      [
+        "0d639fc8-7353-7dd5-39d9-eb3434e4015f",
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "abb723cf-a578-54b2-fcd1-550ee60105e1"
+      ],
+      [
+        "Laceration of hand (disorder)",
+        "Wound care (regime/therapy)"
+      ],
+      [
+        "PATIENT 41771dd4-24d0-0fd3-cb11-d96407742ce0",
+        "Respiratory therapy"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "e786438c-7404-b8b2-59aa-ba6e7d9fb6f6"
+      ],
+      [
+        "65966004",
+        "Fracture of forearm (disorder)"
+      ],
+      [
+        "Inpatient care plan (record artifact)",
+        "cd6ad38d-42a4-4548-c5b2-ac886fb55b3a"
+      ],
+      [
+        "Physiotherapy Care Plan",
+        "Sprain Of Ankle"
+      ],
+      [
+        "Aortic valve stenosis",
+        "Event: 2005-11-03"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Physiotherapy care plan (record artifact)"
+      ],
+      [
+        "2be368ce-9ed4-f594-c88a-684594f97a7c",
+        "684594f97a7c"
+      ],
+      [
+        "Closed fracture of hip",
+        "Fracture care"
+      ],
+      [
+        "Laceration Of Forearm",
+        "Wound Care"
+      ],
+      [
+        "History of aortic valve replacement",
+        "Person 3"
+      ],
+      [
+        "624099ee-4883-c943-a77a-2a0ac471a675",
+        "8d74bce08cd6"
+      ],
+      [
+        "Discharge care plan",
+        "History of aortic valve replacement"
+      ],
+      [
+        "Chronic Obstructive Pulmonary Disease Clinical Management Plan",
+        "Pulmonary Emphysema"
+      ],
+      [
+        "Diabetes self management plan",
+        "Person ID 6fb966d6-a593-8bf3-d43e-604fe6eee19c"
+      ],
+      [
+        "Event: 1985-08-27",
+        "Hyperlipidemia clinical management plan"
+      ],
+      [
+        "Event: 2005-12-15",
+        "History of aortic valve replacement"
+      ],
+      [
+        "736372004",
+        "Discharge care plan (record artifact)"
+      ],
+      [
+        "Fracture care",
+        "Fracture of clavicle"
+      ],
+      [
+        "Hyperlipidemia",
+        "Hyperlipidemia clinical management plan"
+      ],
+      [
+        "718361005",
+        "Weight management program (regime/therapy)"
+      ],
+      [
+        "Fracture care",
+        "Person 7"
+      ],
+      [
+        "88805009",
+        "Chronic congestive heart failure (disorder)"
+      ],
+      [
+        "Organization ID 23479019-fd1e-2b8b-c892-7be8d51849d4",
+        "Physiotherapy care plan"
+      ],
+      [
+        "Person ID cbe3f89a-9241-b36e-2deb-14142f40c874",
+        "Routine antenatal care"
+      ],
+      [
+        "2642a8d2c48f",
+        "8daba2bd-bf51-c696-4b6a-c96455bd05bb"
+      ],
+      [
+        "Diabetes self management plan",
+        "Prediabetes"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "a933c419-595d-17fa-b837-bcc75f8c128b"
+      ],
+      [
+        "Asthma self management",
+        "Person ID d6177d76-b8bd-072f-4e74-4005caa737bb"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "4e195b95-1776-6d85-2585-f8f3be7b0516"
+      ],
+      [
+        "Essential Hypertension",
+        "Lifestyle Education Regarding Hypertension"
+      ],
+      [
+        "Physiotherapy care plan",
+        "Sprain of ankle"
+      ],
+      [
+        "Minor surgery care management",
+        "Organization ID 58988810-805f-fcc1-0d46-689772c68b3e"
+      ],
+      [
+        "Alzheimer's disease",
+        "Event: 2015-01-20"
+      ],
+      [
+        "Musculoskeletal care",
+        "Person ID 511999fc-4d81-fdf7-67a5-e1eab9642248"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "6e76544f-5f5b-19c9-0075-9a4494fd74a3"
+      ],
+      [
+        "Person 3",
+        "Surgical inpatient care plan"
+      ],
+      [
+        "Musculoskeletal care",
+        "Organization ID 10b577c3-b668-2306-08db-d603cb3cb6d2"
+      ],
+      [
+        "Aortic valve stenosis (disorder)",
+        "Care plan (record artifact)"
+      ],
+      [
+        "Event: 2015-12-20 to 2015-12-22",
+        "History of aortic valve replacement"
+      ],
+      [
+        "Hyperlipidemia",
+        "Hyperlipidemia Clinical Management Plan"
+      ],
+      [
+        "004",
+        "Discharge Care Plan"
+      ],
+      [
+        "Care plan",
+        "PATIENT e82e71a9-ae90-3430-66a5-7fac9066cd4c"
+      ],
+      [
+        "Event: 2020-01-29 to 2020-05-18",
+        "Fracture of clavicle"
+      ],
+      [
+        "Fracture care",
+        "Fracture of rib"
+      ],
+      [
+        "Asthma self management",
+        "Person 1"
+      ],
+      [
+        "Closed fracture of hip",
+        "Person 6"
+      ],
+      [
+        "Discharge care plan (record artifact)",
+        "History of aortic valve replacement (situation)"
+      ],
+      [
+        "Person ID f9d442e3-2832-74af-9194-c8b5b9b9e9bc",
+        "Routine antenatal care"
+      ],
+      [
+        "0134d6c9-63af-0ce7-a008-c1ceacd58bda",
+        "1971-07-17"
+      ],
+      [
+        "10b577c3-b668-2306-08db-d603cb3cb6d2",
+        "ef91beb9-55f2-179d-fa4c-f40a32930619"
+      ],
+      [
+        "Event: 2015-12-20 to 2015-12-22",
+        "Surgical inpatient care plan"
+      ],
+      [
+        "Event: 2020-01-13 to 2020-02-21",
+        "Person 1"
+      ],
+      [
+        "Physiotherapy Care Plan",
+        "Sprain of Wrist"
+      ],
+      [
+        "Care Plan",
+        "Obstructive Sleep Apnea Syndrome"
+      ],
+      [
+        "Dementia management",
+        "Event: 2015-01-20"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "869cb8a7-d9c7-407e-8763-57de26f7255a"
+      ],
+      [
+        "Childhood asthma",
+        "Person 11"
+      ],
+      [
+        "Asthma self management",
+        "Organization ID 58988810-805f-fcc1-0d46-689772c68b3e"
+      ],
+      [
+        "Hyperlipidemia clinical management plan",
+        "Person 2"
+      ],
+      [
+        "Diabetes Self Management Plan",
+        "Prediabetes"
+      ],
+      [
+        "02c6-1577-a8ca-6a3b02cabbd8",
+        "7768d436-0ee2-cfe7-730d-e3aef6f05005"
+      ],
+      [
+        "History of Aortic Valve Replacement",
+        "Surgical Inpatient Care Plan"
+      ],
+      [
+        "Asthma self management",
+        "Event: 1933-03-01"
+      ],
+      [
+        "Aortic valve stenosis",
+        "Person 9"
+      ],
+      [
+        "Heart failure self management plan (record artifact)",
+        "cd6ad38d-42a4-4548-c5b2-ac886fb55b3a"
+      ],
+      [
+        "Aortic valve stenosis",
+        "Care plan"
+      ],
+      [
+        "Discharge care plan",
+        "Person 4"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Diabetes self management plan (record artifact)"
+      ],
+      [
+        "85d271c-da2a-523e-33a3-2f1101180582",
+        "98076466-8698-4c2d-2264-5a488076830e"
+      ],
+      [
+        "Event: 1994-02-22",
+        "Hyperlipidemia clinical management plan"
+      ],
+      [
+        "Asthma self management",
+        "Person 11"
+      ],
+      [
+        "Event: 2020-01-29 to 2020-05-18",
+        "Person 1"
+      ],
+      [
+        "773513001",
+        "Physiotherapy care plan (record artifact)"
+      ],
+      [
+        "1969-04-08",
+        "c9c1f4b1-c974-bc16-32b9-3ae54ba04fac"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "f30e0444-0ab1-04a0-1377-78b1f"
+      ],
+      [
+        "Event: 1985-08-27",
+        "Hyperlipidemia"
+      ],
+      [
+        "1231000119100",
+        "History of Aortic Valve Replacement"
+      ],
+      [
+        "History of aortic valve replacement",
+        "Person 4"
+      ],
+      [
+        "Care plan",
+        "Event: 2005-11-03"
+      ],
+      [
+        "Hyperlipidemia",
+        "Person 8"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "66b8a10d-0afa-3c18-9df4-5a80690ea64f"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "83d550c4-c232-0fb5-d093-d846cff9915a"
+      ],
+      [
+        "Closed fracture of hip",
+        "Event: 2014-02-01 to 2014-06-24"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Discharge care plan (record artifact)"
+      ],
+      [
+        "Alzheimer's disease",
+        "Dementia management"
+      ],
+      [
+        "Event: 2020-01-29 to 2020-05-18",
+        "Fracture care"
+      ],
+      [
+        "53950000",
+        "Respiratory therapy (procedure)"
+      ],
+      [
+        "Care plan",
+        "Person 9"
+      ],
+      [
+        "9194-c8b5b9b9e9bc",
+        "d603cb3cb6d2"
+      ],
+      [
+        "8daba2bd-bf51-c696-4b6a-c96455bd05bb",
+        "c96455bd05bb"
+      ],
+      [
+        "PATIENT 004e8cce-7045-8cbe-9fe0-1df5305b2003",
+        "Routine antenatal care"
+      ],
+      [
+        "Diabetes self management plan",
+        "Person ID 02049fdd-5e56-fbf1-6d24-ba3b0a5fc82c"
+      ],
+      [
+        "Fracture of clavicle",
+        "Person 7"
+      ],
+      [
+        "Fracture care",
+        "Person ID 004e8cce-7045-8cbe-9fe0-1df5305b2003"
+      ],
+      [
+        "PATIENT dfa014f4-cbd0-8d37-7134-1fcbc1010c96",
+        "Routine antenatal care"
+      ],
+      [
+        "389118fa-ebe8-07a7-5ff3-8d74bce08cd6",
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3"
+      ],
+      [
+        "Childhood asthma",
+        "Event: 1933-03-01"
+      ],
+      [
+        "Fracture care",
+        "Person 6"
+      ],
+      [
+        "Discharge care plan",
+        "Event: 2020-01-13 to 2020-02-21"
+      ],
+      [
+        "History of aortic valve replacement",
+        "Person 5"
+      ],
+      [
+        "60573004",
+        "Aortic valve stenosis (disorder)"
+      ],
+      [
+        "385691007",
+        "Fracture care (regime/therapy)"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "4743a056-e31a-1ef3-6d68-c2f800ac8ba7"
+      ],
+      [
+        "Minor surgery care management",
+        "Person ID 857f3d76-5dee-7c25-0fac-a1b03ee1da16"
+      ],
+      [
+        "Hyperlipidemia clinical management plan",
+        "Person 8"
+      ],
+      [
+        "Fracture care",
+        "Organization ID 922e12e4-23f8-1ea7-fce2-acc5b5b2123c"
+      ],
+      [
+        "Hyperlipidemia clinical management plan",
+        "Person 12"
+      ],
+      [
+        "Event: 2014-02-01 to 2014-06-24",
+        "Fracture care"
+      ],
+      [
+        "Fracture Care",
+        "Fracture of Ankle"
+      ],
+      [
+        "736353004",
+        "Inpatient care plan (record artifact)"
+      ],
+      [
+        "Musculoskeletal care",
+        "PATIENT dfa014f4-cbd0-8d37-7134-1fcbc1010c96"
+      ],
+      [
+        "Person ID 74d4b6ed-9ce8-1898-e97c-23e1b31669ee",
+        "Routine antenatal care"
+      ],
+      [
+        "Care plan",
+        "Person 2"
+      ],
+      [
+        "7380e700-61f4-61e4-e506-c015775734b6",
+        "c015775734b6"
+      ],
+      [
+        "2cf47bc4-4e64-393a-0338-333bb08a00bd",
+        "cd6ad38d-42a4-4548-c5b2-ac886fb55b3a"
+      ],
+      [
+        "Person ID e6aa82f8-b03d-c064-fb46-b90fea530b65",
+        "Weight management program"
+      ],
+      [
+        "Diabetes self management plan (record artifact)",
+        "Prediabetes (finding)"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "f714a853-db79-cd0e-19ce-5988f7431820"
+      ],
+      [
+        "735985000",
+        "7768d436-0ee2-cfe7-730d-e3aef6f05005"
+      ],
+      [
+        "7c1ac0e1-f4df-3a2d-4640-b7bd5a7d9faf",
+        "b7bd5a7d9faf"
+      ],
+      [
+        "44465007",
+        "Sprain of ankle (disorder)"
+      ],
+      [
+        "Chronic congestive heart failure (disorder)",
+        "Heart failure self management plan (record artifact)"
+      ],
+      [
+        "Hyperlipidemia clinical management plan",
+        "Person 1"
+      ],
+      [
+        "734163000",
+        "Care plan (record artifact)"
+      ],
+      [
+        "Essential hypertension (disorder)",
+        "Lifestyle education regarding hypertension (procedure)"
+      ]
+    ],
+    "count": 189,
+    "create_time": 1759304283,
+    "update_time": 1759304283,
+    "_id": "doc-19bae731b3d21ce5ce34d6d17c9c4d92"
+  },
+  "doc-3012b2083629591b5a20c0d6d9a6d69e": {
+    "relation_pairs": [
+      [
+        "Hypertriglyceridemia",
+        "Snomed"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "Not in labor force"
+      ],
+      [
+        "Full-time employment",
+        "c7e1ea89-5c2d-0130-ad1b-88571bbacbd8"
+      ],
+      [
+        "Fracture of bone (disorder)",
+        "Fracture of forearm (disorder)"
+      ],
+      [
+        "2e72517c-2c13-f2eb-e515-3586d053af3a",
+        "Medication review due (situation)"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Medication review due"
+      ],
+      [
+        "Medication Review Due",
+        "Primary Dental Caries"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "Microalbuminuria due to type 2 diabetes mellitus"
+      ],
+      [
+        "Aortic valve regurgitation (disorder)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Viral sinusitis",
+        "http://snomed.info/sct"
+      ],
+      [
+        "13112bad-dc3a-965a-61c8-3d1ede30ad50",
+        "Received higher education"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "99686dcd-4e58-5421-1895-da66d6beb1d2"
+      ],
+      [
+        "Event 2011-05-03 to 2016-03-01",
+        "Full-Time Employment"
+      ],
+      [
+        "Abnormal findings diagnostic imaging heart+coronary circulat",
+        "Acute ST segment elevation myocardial infarction"
+      ],
+      [
+        "Social isolation",
+        "http://snomed.info/sct"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "179bc71e-d6e2-5a84-f73e-0623a6f5fbd0"
+      ],
+      [
+        "Social isolation",
+        "f-942b-6f71-47cd-496fec5bec4f"
+      ],
+      [
+        "Medication review due (situation)",
+        "d6ddd422-c38a-5ca3-a77e-2dbd63a00113"
+      ],
+      [
+        "160903007",
+        "d3d30bd8-b96d-a722-233c-b339e4bf2bf1"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "d61402ff-6883-0606-be5d-8792f17271c2"
+      ],
+      [
+        "Prediabetes",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Idiopathic Atrophic Hypothyroidism",
+        "http://snomed.info/sct"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "Has a criminal record"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "History of aortic valve replacement"
+      ],
+      [
+        "2017-11-04",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "1739419d-98e4-5f73-8b83-aa414dcf46a3",
+        "ffb0f438-cc99-86af-bfac-4456e367b709"
+      ],
+      [
+        "Gingival Disease",
+        "Person 56655c9e-65c5-42bf-fb2c-2e49adedcc60"
+      ],
+      [
+        "2025-06-25",
+        "Medication review due (situation)"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Acute bronchitis"
+      ],
+      [
+        "2025-07-30",
+        "Victim of intimate partner abuse (finding)"
+      ],
+      [
+        "Body Mass Index 30+ - Obesity",
+        "Person 2ef8268f-d504-0839-bc31-268bcd80bf4c"
+      ],
+      [
+        "2003-05-14",
+        "History of aortic valve replacement"
+      ],
+      [
+        "Chronic kidney disease stage 2",
+        "e174cf44-d8c5-26e5-3aaa-0bb50540719c"
+      ],
+      [
+        "Medication review due",
+        "Snomed.info/sct"
+      ],
+      [
+        "Normal pregnancy",
+        "Snomed.info/sct"
+      ],
+      [
+        "0ee37386-2ea9-c341-fa5b-baca13701379",
+        "10b577c3-b668-2306-08db-d603cb3cb6d2"
+      ],
+      [
+        "5b5b6a94-5860-c6cf-fc19-25138417f10d",
+        "Educated to High School Level"
+      ],
+      [
+        "Acute Viral Pharyngitis",
+        "cd6ad38d-42a4-4548-c5b2-ac886fb55b3a"
+      ],
+      [
+        "2017-06-13",
+        "6a9e450a-291e-d798-1bf3-f0204bc69338"
+      ],
+      [
+        "54d174cc-0236-0c47-c1e8-687c51c73786",
+        "Full-time employment"
+      ],
+      [
+        "54d174cc-0236-0c47-c1e8-687c51c73786",
+        "Body mass index 30+ - obesity"
+      ],
+      [
+        "1997-12-12",
+        "Polyp of colon (disorder)"
+      ],
+      [
+        "0eb97c7c-50e6-0401-87cc-1cf20f679c28",
+        "Part-time Employment"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "Medication Review Due"
+      ],
+      [
+        "Primary dental caries (disorder)",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "9500638b-57d8-8b8f-c87e-961e7dabac25",
+        "Fracture of bone"
+      ],
+      [
+        "a88baebb-4f8a-b64f-9a06-5e154f32eb34",
+        "http://snomed.info/sct"
+      ],
+      [
+        "10b577c3-b668-2306-08db-d603cb3cb6d2",
+        "d2ac1450-fbfb-4610-15b1-5d495b905e04"
+      ],
+      [
+        "Medication Review Due",
+        "Snomed Clinical Terms"
+      ],
+      [
+        "Loss of taste",
+        "dfa014f4-cbd0-8d37-7134-1fcbc1010c96"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "Limited social contact (finding)"
+      ],
+      [
+        "Person 58988810-805f-fcc1-0d46-689772c68b3e",
+        "Stress"
+      ],
+      [
+        "2006-04-16",
+        "6a9e450a-291e-d798-1bf3-f0204bc69338"
+      ],
+      [
+        "Not in labor force (finding)",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "Received higher education (finding)",
+        "SNOMED Clinical Terms (SNOMED CT)"
+      ],
+      [
+        "Past pregnancy history of miscarriage (situation)",
+        "Received higher education (finding)"
+      ],
+      [
+        "Medication Review Due",
+        "Stress"
+      ],
+      [
+        "1997-04-08",
+        "Full-time employment (finding)"
+      ],
+      [
+        "History of coronary artery bypass grafting",
+        "http://snomed.info/sct"
+      ],
+      [
+        "004e8cce-7045-8cbe-9fe0-1df5305b2003",
+        "Full-time Employment"
+      ],
+      [
+        "10b577c3-b668-2306-08db-d603cb3cb6d2",
+        "512d5b9e-c852-5f27-1cea-36f8efe0409b"
+      ],
+      [
+        "Infection of Tooth",
+        "Snomed"
+      ],
+      [
+        "Blighted Ovum",
+        "http://snomed.info/sct"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Chronic Pain"
+      ],
+      [
+        "Acute cholecystitis",
+        "Gallbladder calculus"
+      ],
+      [
+        "Blighted ovum",
+        "Normal pregnancy"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "b38f9890-b1fd-309b-de4b-9821803f2c30"
+      ],
+      [
+        "0d4e178b-8e56-2d24-8d3f-7316bfd4e46b",
+        "cd6ad38d-42a4-4548-c5b2-ac886fb55b3a"
+      ],
+      [
+        "724a845f-1e8a-c35d-0d07-72d07dd5680f",
+        "Prediabetes"
+      ],
+      [
+        "Headache",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Overdose",
+        "f3d09505-7a7c-72d5-22c3-0b0236046ac2"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Idiopathic atrophic hypothyroidism (disorder)"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "20634e0d-fdea-35bf-f89a-32dd1685d0d6"
+      ],
+      [
+        "0a0965d8-e927-4a95-8780-c125e2eb0eb2",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "History of aortic valve replacement"
+      ],
+      [
+        "Medication Review Due",
+        "Snomed"
+      ],
+      [
+        "2020-09-26",
+        "2020-10-10"
+      ],
+      [
+        "Body Mass Index 30+ - Obesity",
+        "Event 2012-11-27"
+      ],
+      [
+        "0c02ff87-790d-b7ae-3c90-d70c4d0bc0a7",
+        "Part-time Employment"
+      ],
+      [
+        "2022-12-13",
+        "Osteoarthritis of hip"
+      ],
+      [
+        "1972-11-28",
+        "1972-12-12"
+      ],
+      [
+        "Snomed",
+        "Stress"
+      ],
+      [
+        "2019-04-18",
+        "2019-06-20"
+      ],
+      [
+        "0e208810-b681-37a5-7106-af62c2db36a7",
+        "d6ddd422-c38a-5ca3-a77e-2dbd63a00113"
+      ],
+      [
+        "23479019-fd1e-2b8b-c892-7be8d51849d4",
+        "4204ab2f-8cba-62af-62c7-dbaa3186102b"
+      ],
+      [
+        "Person 051fbfff-0f43-c292-f0e2-d50a0f794176",
+        "Received Higher Education"
+      ],
+      [
+        "1fdae5e5-b8bd-cec0-9714-23fcc5476ca9",
+        "58988810-805f-fcc1-0d46-689772c68b3e"
+      ],
+      [
+        "History of myocardial infarction",
+        "Snomed"
+      ],
+      [
+        "87f4c224-97db-ebce-0a90-150370d2b56b",
+        "Viral sinusitis"
+      ],
+      [
+        "bdc0bbbc-2ba8-2095-94c8-e505edbe17f1",
+        "dfa014f4-cbd0-8d37-7134-1fcbc1010c96"
+      ],
+      [
+        "Anemia",
+        "Prediabetes"
+      ],
+      [
+        "004e8cce-7045-8cbe-9fe0-1df5305b2003",
+        "Fracture of Bone"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "dad4e708-059f-3acc-b6ec-4233b2f137bf"
+      ],
+      [
+        "Chronic intractable migraine without aura (disorder)",
+        "Chronic pain (finding)"
+      ],
+      [
+        "Medication review due (situation)",
+        "Not in labor force (finding)"
+      ],
+      [
+        "5109d6d8-6740-c310-b2f7-144f49050661",
+        "Stress (finding)"
+      ],
+      [
+        "Epilepsy (disorder)",
+        "Seizure disorder (disorder)"
+      ],
+      [
+        "Epilepsy (disorder)",
+        "History of seizure (situation)"
+      ],
+      [
+        "Full-time employment (finding)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "2025-07-30",
+        "Medication review due (situation)"
+      ],
+      [
+        "Sprain",
+        "Sprain of Wrist"
+      ],
+      [
+        "Primary dental caries (disorder)",
+        "f5b550cf-e39a-873a-fa86-47df0734b467"
+      ],
+      [
+        "87f4c224-97db-ebce-0a90-150370d2b56b",
+        "Sprain of wrist"
+      ],
+      [
+        "2025-08-27",
+        "5b97c223-6381-00c7-953a-e0034d12e071"
+      ],
+      [
+        "204b32dd-ca59-e296-9ae2-e2f2ea21467c",
+        "73595000"
+      ],
+      [
+        "Viral sinusitis (disorder)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Past Pregnancy History of Miscarriage"
+      ],
+      [
+        "53a8cb7a-5674-45c5-0da3-b9221d2c92a2",
+        "Body Mass Index 30+ - Obesity"
+      ],
+      [
+        "Sprain of Wrist",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Social isolation",
+        "Stress"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "Ischemic heart disease"
+      ],
+      [
+        "Snomed.info/sct",
+        "Stress (finding)"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "Social isolation"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "1969-02-25"
+      ],
+      [
+        "2d96a389-0d0c-f9de-053e-67df418693f4",
+        "Leaking dental filling"
+      ],
+      [
+        "2015-01-20",
+        "50c496a5-3412-7995-2bd6-e7a2cd303c07"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "Gingival disease"
+      ],
+      [
+        "98076466-8698-4c2d-2264-5a488076830e",
+        "Sprain"
+      ],
+      [
+        "0-c7525cb29d1c",
+        "926946ba-6e5b-138c-0c64-bb5419100aae"
+      ],
+      [
+        "751c069c-4ce9-f7af-e0fa-dae5ece3bdaf",
+        "Social isolation"
+      ],
+      [
+        "Acute Viral Pharyngitis",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Gingivitis (disorder)",
+        "SNOMED Clinical Terms (SNOMED CT)"
+      ],
+      [
+        "Unemployed (finding)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Complete Miscarriage",
+        "http://snomed.info/sct"
+      ],
+      [
+        "0ba9213f-5aa7-e1d0-40c8-aa517b289638",
+        "2019-02-12"
+      ],
+      [
+        "741062008",
+        "Not in labor force"
+      ],
+      [
+        "Fracture of bone",
+        "Fracture of clavicle"
+      ],
+      [
+        "Full-time employment",
+        "http://snomed.info/sct"
+      ],
+      [
+        "89550bdf-c115-9dea-e6ff-801161944325",
+        "Medication review due (situation)"
+      ],
+      [
+        "58988810-805f-fcc1-0d46-689772c68b3e",
+        "bf56d2cc-0a96-4252-5877-3ac8753b3702"
+      ],
+      [
+        "1994-05-13",
+        "c65c5a99-49c5-888f-96f5-8b58693d60a4"
+      ],
+      [
+        "41771dd4-24d0-0fd3-cb11-d96407742ce0",
+        "9946b123-4a5d-0222-0c2a-ced21f7816fa"
+      ],
+      [
+        "a5796491-7f36-1d4b-32b6-41daf4a3b317",
+        "d6ddd422-c38a-5ca3-a77e-2dbd63a00113"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "29344c40-c419-5dca-1eec-878bf02a0c7b"
+      ],
+      [
+        "Fracture of Bone",
+        "http://snomed.info/sct"
+      ],
+      [
+        "160903007",
+        "45ced095-d879-00d5-e969-1bf197426870"
+      ],
+      [
+        "Part-Time Employment",
+        "Person 58988810-805f-fcc1-0d46-689772c68b3e"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "3ba5d52d-4f06-94c8-19bd-8e98b7977714"
+      ],
+      [
+        "Limited Social Contact",
+        "Social Isolation"
+      ],
+      [
+        "1985-02-03",
+        "History of coronary artery bypass grafting (situation)"
+      ],
+      [
+        "54d174cc-0236-0c47-c1e8-687c51c73786",
+        "Received higher education"
+      ],
+      [
+        "58988810-805f-fcc1-0d46-689772c68b3e",
+        "82fe6b29-9ac5-aa6c-215f-26c38a810773"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Ischemic heart disease"
+      ],
+      [
+        "Medication review due",
+        "SNOMED"
+      ],
+      [
+        "Sprain",
+        "http://snomed.info/sct"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "6e76544f-5f5b-19c9-0075-9a4494fd74a3"
+      ],
+      [
+        "2019-06-05",
+        "Laceration - injury (disorder)"
+      ],
+      [
+        "Fracture of bone (disorder)",
+        "Osteoporotic fracture of bone (disorder)"
+      ],
+      [
+        "06fe853a-122b-5924-a0dc-372f433398ac",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "6b18048e-b158-eb07-e4f0-0fb7422a3517",
+        "Medication review due (situation)"
+      ],
+      [
+        "Essential hypertension",
+        "Metabolic syndrome X"
+      ],
+      [
+        "56cc013c-105e-a139-a379-c2fe65b9fd53",
+        "Acute infective cystitis"
+      ],
+      [
+        "51a3b4b7-e513-a4df-e823-477203c33a8e",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "Normal pregnancy"
+      ],
+      [
+        "078f6fa4-5321-96c7-b47c-bca4fa6e75b8",
+        "87f4c224-97db-ebce-0a90-150370d2b56b"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "fddfc02c-c9e1-a777-1b39-ac7cc0077298"
+      ],
+      [
+        "Victim of intimate partner abuse",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "4afc4ba8-e015-de39-018f-2217e",
+        "Medication Review Due"
+      ],
+      [
+        "Has a criminal record",
+        "Snomed.info/sct"
+      ],
+      [
+        "Acute Infective Cystitis",
+        "http://snomed.info/sct"
+      ],
+      [
+        "2020-06-03",
+        "d31e8332-0a19-c738-906f-2d5f23baa8cf"
+      ],
+      [
+        "2021-12-08",
+        "Gingivitis"
+      ],
+      [
+        "67903f86-53b8-cc86-94c0-254dab6ee188",
+        "87f4c224-97db-ebce-0a90-150370d2b56b"
+      ],
+      [
+        "Overdose",
+        "d1f5e12b-77f2-9991-3a93-dcee8b1a11f0"
+      ],
+      [
+        "Unemployed (finding)",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "Medication review due (situation)",
+        "Victim of intimate partner abuse (finding)"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Osteoporotic fracture of bone"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "Limited Social Contact"
+      ],
+      [
+        "15b660bf-3429-1a1c-e4e8-5a4298da4528",
+        "Laceration - injury"
+      ],
+      [
+        "2018-07-18",
+        "c7091aa8-99b6-9a74-2338-74d542b23de9"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "50c496a5-3412-7995-2bd6-e7a2cd303c07"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Chronic Low Back Pain",
+        "Snomed"
+      ],
+      [
+        "23479019-fd1e-2b8b-c892-7be8d51849d4",
+        "f3f018ea-ca04-9dfe-1c1e-1ff573689d0a"
+      ],
+      [
+        "174d1321-7753-bd54-514a-656ba4bd5f78",
+        "87f4c224-97db-ebce-0a90-150370d2b56b"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "History of myocardial infarction"
+      ],
+      [
+        "0ba9213f-5aa7-e1d0-40c8-aa517b289638",
+        "2018-02-06"
+      ],
+      [
+        "Chronic kidney disease stage 1",
+        "Disorder of kidney due to diabetes mellitus"
+      ],
+      [
+        "1946-01-29",
+        "Educated to High School Level"
+      ],
+      [
+        "7c2a16c9-62d7-b1e6-1f97-c1239b296aa5",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "45dede11-9b78-d58b-4ad1-33e7322d2625",
+        "Stress"
+      ],
+      [
+        "Medication Review Due",
+        "Person dacfcf8b-d863-cddd-bcf6-13e1ca0decd9"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "Stress"
+      ],
+      [
+        "1603f9c6-c49e-358f-cc1c-4c92c7924dbd",
+        "c942f2dd-2871-9d57-ef33-f9f0d151d064"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Acute Viral Pharyngitis",
+        "Event 2025-03-26 to 2025-04-04"
+      ],
+      [
+        "Diabetes Mellitus Type 2",
+        "Nonproliferative Diabetic Retinopathy Due to Type 2 Diabetes Mellitus"
+      ],
+      [
+        "Anemia",
+        "snomed.info/sct"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "Full-time employment"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "Body mass index 30+ - obesity"
+      ],
+      [
+        "Full-time employment (finding)",
+        "d6ddd422-c38a-5ca3-a77e-2dbd63a00113"
+      ],
+      [
+        "Viral Sinusitis (disorder)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Stress (finding)",
+        "f25b6b91-0d2f-ccf9-dd18-930736f7670a"
+      ],
+      [
+        "Full-time employment",
+        "Gingivitis"
+      ],
+      [
+        "Risk Activity Involvement",
+        "cd6ad38d-42a4-4548-c5b2-ac886fb55b3a"
+      ],
+      [
+        "Body mass index 30+ - obesity",
+        "Prediabetes"
+      ],
+      [
+        "d02ad5fd-641b-f4df-7261-9035eae6590a",
+        "d6ddd422-c38a-5ca3-a77e-2dbd63a00113"
+      ],
+      [
+        "1990-09-08",
+        "http://snomed.info/sct,196416002"
+      ],
+      [
+        "Viral sinusitis (disorder)",
+        "d6ddd422-c38a-5ca3-a77e-2dbd63a00113"
+      ],
+      [
+        "Not in labor force",
+        "Snomed CT"
+      ],
+      [
+        "314529007",
+        "53bf396f-632f-6131-976f-2848138153f1"
+      ],
+      [
+        "Chronic Congestive Heart Failure",
+        "http://snomed.info/sct"
+      ],
+      [
+        "1faa7912-4784-a360-e49d-339e38d7122f",
+        "Medication review due"
+      ],
+      [
+        "Acute infective cystitis (disorder)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Leaking Dental Filling",
+        "Snomed"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "f58c74fd-461d-4ebc-481c-7b662e9a48b6"
+      ],
+      [
+        "SNOMED CT",
+        "Stress"
+      ],
+      [
+        "1992-08-29",
+        "Chronic intractable migraine without aura (disorder)"
+      ],
+      [
+        "274531002",
+        "Abnormal findings diagnostic imaging heart+coronary circulat"
+      ],
+      [
+        "Full-time employment",
+        "Stress"
+      ],
+      [
+        "2020-09-24",
+        "Viral Sinusitis"
+      ],
+      [
+        "004e8cce-7045-8cbe-9fe0-1df5305b2003",
+        "Medication Review Due"
+      ],
+      [
+        "2025-03-26",
+        "Gingival disease (disorder)"
+      ],
+      [
+        "Received higher education (finding)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "38790b18-1646-9c2d-1ca9-fe639a0bc2f9",
+        "58988810-805f-fcc1-0d46-689772c68b3e"
+      ],
+      [
+        "All categories referenced",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Full-time employment (finding)",
+        "e82e71a9-ae90-3430-66a5-7fac9066cd4c"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Body mass index 30+ - obesity"
+      ],
+      [
+        "2016-06-11",
+        "2016-08-19"
+      ],
+      [
+        "Chronic Pain",
+        "Event 2014-02-06"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "3c4e3df9-3f59-14d8-ea91-09d60056f073"
+      ],
+      [
+        "109570002",
+        "Primary dental caries"
+      ],
+      [
+        "5deb01c9-98c8-2990-cfd1-e5b8d797b389",
+        "Medication Review Due"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Chronic pain (finding)"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "f9f85516-bb5b-a837-491a-b1939376dca8"
+      ],
+      [
+        "8228ad14-acbf-474b-7fb1-8b34f4731367",
+        "cd6ad38d-42a4-4548-c5b2-ac886fb55b3a"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "Gingivitis"
+      ],
+      [
+        "8389cf90-a344-7dba-5176-61fa8786b513",
+        "Full-time employment"
+      ],
+      [
+        "Fractured dental filling",
+        "http://snomed.info/sct"
+      ],
+      [
+        "38790b18-1646-9c2d-1ca9-fe639a0bc2f9",
+        "Social isolation (finding)"
+      ],
+      [
+        "Part-time employment",
+        "cc127e1c-3d00-9a7a-3b16-cbae0f1a03f7"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Stress (finding)"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Social Isolation"
+      ],
+      [
+        "Stress",
+        "cc127e1c-3d00-9a7a-3b16-cbae0f1a03f7"
+      ],
+      [
+        "History of coronary artery bypass grafting (situation)",
+        "Snomed.info/sct"
+      ],
+      [
+        "2017-06-13",
+        "Full-time employment"
+      ],
+      [
+        "6b53dd31-fda3-c5c4-b21e-3cf262b1d707",
+        "Gingivitis (disorder)"
+      ],
+      [
+        "Medication review due (situation)",
+        "SNOMED Clinical Terms (SNOMED CT)"
+      ],
+      [
+        "9ace2efa-1826-bf3d-1acc-fc71f19bc904",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "Medication review due"
+      ],
+      [
+        "9be8bdb9-fb0e-b05a-4813-c4c833639b91",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "d08bb667-4547-be38-a59c-75b7a7f6805b"
+      ],
+      [
+        "2020-10-21",
+        "Acute Viral Pharyngitis"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "64b8f8c7-a7f0-55ad-75c5-f4529d7db7f3"
+      ],
+      [
+        "2013-01-02",
+        "Part-time employment (finding)"
+      ],
+      [
+        "2008-04-12",
+        "Stress"
+      ],
+      [
+        "Reports of",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "1985-12-06",
+        "Body mass index 30+ - obesity"
+      ],
+      [
+        "Normal pregnancy",
+        "e592ca72-6eed-28f3-ff5f-1ce46e1e7b07"
+      ],
+      [
+        "87f4c224-97db-ebce-0a90-150370d2b56b",
+        "Gingival disease"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "526473d4-cbbd-81a3-52d4-221af6efa609"
+      ],
+      [
+        "Acute viral pharyngitis (disorder)",
+        "SNOMED Clinical Terms (SNOMED CT)"
+      ],
+      [
+        "Full-time employment (finding)",
+        "Not in labor force (finding)"
+      ],
+      [
+        "cd6ad38d-42a4-4548-c5b2-ac886fb55b3a",
+        "eddeb491-3d83-19fb-671d-bbdd27a5f97c"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "Stress"
+      ],
+      [
+        "23479019-fd1e-2b8b-c892-7be8d51849d4",
+        "934fcee1-ae1d-4750-ff40-57d0e28d73d2"
+      ],
+      [
+        "1999-02-20",
+        "Victim of intimate partner abuse"
+      ],
+      [
+        "Refugee (person)",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "Part-time employment"
+      ],
+      [
+        "Event 2014-02-18 to 2022-04-05",
+        "Medication Review Due"
+      ],
+      [
+        "9780837d-db9f-3db4-5ea2-1db915f154ff",
+        "Gingivitis"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Stress"
+      ],
+      [
+        "2017-11-11",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "Snomed"
+      ],
+      [
+        "Snomed CT",
+        "Stress"
+      ],
+      [
+        "160903",
+        "2011-04-30"
+      ],
+      [
+        "1739419d-98e4-5f73-8b83-aa414dcf46a3",
+        "b59f62e3-35ef-69b8-5d34-69e2bc4cb082"
+      ],
+      [
+        "1985-01-15",
+        "Idiopathic atrophic hypothyroidism (disorder)"
+      ],
+      [
+        "Gingivitis",
+        "Snomed.info/sct"
+      ],
+      [
+        "2c81898d-98af-647e-f2fa-48b89ac54f29",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "2caaa482-193c-b8fa-e26d-6f4b024f9506",
+        "58988810-805f-fcc1-0d46-689772c68b3e"
+      ],
+      [
+        "Normal Pregnancy",
+        "http://snomed.info/sct"
+      ],
+      [
+        "389118fa-ebe8-07a7-5ff3-8d74bce08cd6",
+        "Essential Hypertension"
+      ],
+      [
+        "Medication review due",
+        "d2b24103-1e23-4876-5e30-17bbc4e26201"
+      ],
+      [
+        "2021-05-10",
+        "Viral Sinusitis"
+      ],
+      [
+        "3590cb0d-1791-e563-42ab-7237059122d2",
+        "Medication review due (situation)"
+      ],
+      [
+        "Abnormal Findings Diagnostic Imaging Heart and Coronary Circulation (finding)",
+        "Ischemic Heart Disease (disorder)"
+      ],
+      [
+        "Chronic kidney disease stage 1",
+        "Medication review due"
+      ],
+      [
+        "1969-02-25",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Acute viral pharyngitis"
+      ],
+      [
+        "Medication Review Due",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "Limited social contact",
+        "snomed.info/sct"
+      ],
+      [
+        "Infectious mediastinitis (disorder)",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "Unhealthy alcohol drinking behavior (finding)",
+        "dafa9039-1ce9-fb48-37ef-9d56bd1d1ab3"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Osteoporotic Fracture Of Bone"
+      ],
+      [
+        "Gingivitis",
+        "b54baf0d-30c9-7f48-d37d-ef7a712c1e63"
+      ],
+      [
+        "58988810-805f-fcc1-0d46-689772c68b3e",
+        "e1b028f2-36d6-353c-7788-ed3f58c597df"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "Received higher education"
+      ],
+      [
+        "Only received primary school education (finding)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "1994-09-17",
+        "48fe484b-4147-7030-a663-eeac5446a7d1"
+      ],
+      [
+        "Disorder of kidney due to diabetes mellitus",
+        "Medication review due"
+      ],
+      [
+        "Body mass index 30+ - obesity",
+        "snomed.info/sct"
+      ],
+      [
+        "Loose Dental Filling",
+        "http://snomed.info/sct"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Part-time employment"
+      ],
+      [
+        "Full-time Employment",
+        "Social Isolation"
+      ],
+      [
+        "Acute viral pharyngitis",
+        "Snomed CT"
+      ],
+      [
+        "2cbb65ec-7437-bc75-cadc-0d92d0e494e2",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "3f28af60-979e-1b0c-30a6-59ee25f5a9c7"
+      ],
+      [
+        "Ischemic heart disease",
+        "snomed.info/sct"
+      ],
+      [
+        "10b577c3-b668-2306-08db-d603cb3cb6d2",
+        "88d324e3-3d9a-6d58-307c-57162c132c66"
+      ],
+      [
+        "Body Mass Index 30+ - Obesity",
+        "cd6ad38d-42a4-4548-c5b2-ac886fb55b3a"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "26d37c5e-c7db-1af2-6519-cbad1246d5e1"
+      ],
+      [
+        "Fracture of forearm",
+        "Snomed CT"
+      ],
+      [
+        "2016-06-11",
+        "6a9e450a-291e-d798-1bf3-f0204bc69338"
+      ],
+      [
+        "1739419d-98e4-5f73-8b83-aa414dcf46a3",
+        "90e220fd-2ba9-628a-d67f-d8abeed1a740"
+      ],
+      [
+        "Fracture of bone",
+        "Snomed CT"
+      ],
+      [
+        "Medication review due",
+        "c51daa65-44d9-c3cd-cc07-0fa896ee1e7d"
+      ],
+      [
+        "Fracture of Bone",
+        "Fracture of Rib"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "abb723cf-a578-54b2-fcd1-550ee60105e1"
+      ],
+      [
+        "85ad6995-a232-24de-4d1d-741ca4fabe19",
+        "87f4c224-97db-ebce-0a90-150370d2b56b"
+      ],
+      [
+        "167f6802-f3a5-2d1d-0934-fc7dd315bb46",
+        "Osteoarthritis of hip"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "3328740a-dc8d-7a21-0663-2165726bab5b"
+      ],
+      [
+        "96a6d324-5ccb-0234-85e7-d34dd0c2ca0a",
+        "Essential hypertension"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Refugee"
+      ],
+      [
+        "87f4c224-97db-ebce-0a90-150370d2b56b",
+        "d50f731c-f2b7-625c-f90d-5023093b226b"
+      ],
+      [
+        "Person dacfcf8b-d863-cddd-bcf6-13e1ca0decd9",
+        "Stress"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "Chronic low back pain"
+      ],
+      [
+        "1c558147-c12a-2618-e381-0138fac60cb7",
+        "dfa014f4-cbd0-8d37-7134-1fcbc1010c96"
+      ],
+      [
+        "004e8cce-7045-8cbe-9fe0-1df5305b2003",
+        "Leaking Dental Filling"
+      ],
+      [
+        "Limited social contact",
+        "SNOMED"
+      ],
+      [
+        "Victim of intimate partner abuse",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Viral sinusitis (disorder)",
+        "e1b028f2-36d6-353c-7788-ed3f58c597df"
+      ],
+      [
+        "730ab7b0-5e24-4bf2-a5a5-04d7d09b1352",
+        "Suspected disease caused by Severe acute respiratory coronavirus 2"
+      ],
+      [
+        "2013-04-17",
+        "Nonproliferative Diabetic Retinopathy Due to Type 2 Diabetes Mellitus"
+      ],
+      [
+        "Misuses Drugs",
+        "http://snomed.info/sct"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Received higher education"
+      ],
+      [
+        "Otitis media (disorder)",
+        "d537d746-1e8c-8341-7055-0198331e01d8"
+      ],
+      [
+        "1603f9c6-c49e-358f-cc1c-4c92c7924dbd",
+        "703a19e6-65b4-a3fb-ab77-65a1f94ba2ea"
+      ],
+      [
+        "2011-11-30",
+        "Ischemic heart disease"
+      ],
+      [
+        "Fracture of bone (disorder)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Childhood Asthma",
+        "Medication Review Due"
+      ],
+      [
+        "87f4c224-97db-ebce-0a90-150370d2b56b",
+        "d48c53c2-8dbb-fede-1fe1-58ec4b8cc958"
+      ],
+      [
+        "Full-time employment (finding)",
+        "Victim of intimate partner abuse (finding)"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "Not in labor force (finding)"
+      ],
+      [
+        "3bde8806-73f9-e5a5-73fe-b1bf20e1ff74",
+        "Diabetes mellitus type 2"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "Chronic sinusitis"
+      ],
+      [
+        "225b1b5c-cda2-8647-57c1-d8a8dcb6363f",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Full-time employment (finding)",
+        "Unemployed (finding)"
+      ],
+      [
+        "Gingivitis (disorder)",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "Victim of intimate partner abuse (finding)",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "Osteoporotic fracture of bone",
+        "http://snomed.info/sct"
+      ],
+      [
+        "2025-05-08",
+        "Homeless"
+      ],
+      [
+        "2007-11-21",
+        "Anemia"
+      ],
+      [
+        "Full-Time Employment",
+        "Person b4eb9504-ec03-f701-95e2-8c52b4d2af4f"
+      ],
+      [
+        "Proteinuria due to type 2 diabetes mellitus",
+        "http://snomed.info/sct"
+      ],
+      [
+        "0650638b-1b68-fab0-a62d-e5a3d5bc3411",
+        "Reports of violence in the environment (finding)"
+      ],
+      [
+        "Medication review due",
+        "Part-time employment"
+      ],
+      [
+        "Loose Dental Filling",
+        "Primary Dental Caries"
+      ],
+      [
+        "All categories referenced",
+        "e82e71a9-ae90-3430-66a5-7fac9066cd4c"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "66b8a10d-0afa-3c18-9df4-5a80690ea64f"
+      ],
+      [
+        "Not in labor force",
+        "dfa014f4-cbd0-8d37-7134-1fcbc1010c96"
+      ],
+      [
+        "23479019-fd1e-2b8b-c892-7be8d51849d4",
+        "9421bf2d-c927-b544-f43a-a792a49ab4b5"
+      ],
+      [
+        "19c1187d-17a4-55d3-0759-a59a2f9de9ef",
+        "Full-time employment (finding)"
+      ],
+      [
+        "23479019-fd1e-2b8b-c892-7be8d51849d4",
+        "Full-time Employment"
+      ],
+      [
+        "History of appendectomy",
+        "d7aa0061-15d2-9f8d-4321-760fccc777cf"
+      ],
+      [
+        "1603f9c6-c49e-358f-cc1c-4c92c7924dbd",
+        "Risk activity involvement (finding)"
+      ],
+      [
+        "59621000",
+        "Essential hypertension"
+      ],
+      [
+        "Anemia",
+        "Snomed"
+      ],
+      [
+        "Normal Pregnancy",
+        "Snomed Clinical Terms"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "Full-time Employment"
+      ],
+      [
+        "54d174cc-0236-0c47-c1e8-687c51c73786",
+        "Has a criminal record"
+      ],
+      [
+        "Stress (finding)",
+        "dafa9039-1ce9-fb48-37ef-9d56bd1d1ab3"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "1969-11-11"
+      ],
+      [
+        "Medication Review Due",
+        "cd6ad38d-42a4-4548-c5b2-ac886fb55b3a"
+      ],
+      [
+        "Medication review due (situation)",
+        "d61402ff-6883-0606-be5d-8792f17271c2"
+      ],
+      [
+        "Only Received Primary School Education",
+        "Part-Time Employment"
+      ],
+      [
+        "Osteoporotic fracture of bone (disorder)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "d1eb1a4f-4801-b054-c2a4-8385b03358dd"
+      ],
+      [
+        "56cc013c-105e-a139-a379-c2fe65b9fd53",
+        "Gingivitis"
+      ],
+      [
+        "Body mass index 30+ - obesity",
+        "Hyperlipidemia"
+      ],
+      [
+        "87f4c224-97db-ebce-0a90-150370d2b56b",
+        "Overdose"
+      ],
+      [
+        "926946ba-6e5b-138c-0c64-bb5419100aae",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Streptococcal sore throat (disorder)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "caf1c9a6-d732-c4cf-e106-71b349510357",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "e86c4674-fb60-48b5-9c47-dbd7041b698f"
+      ],
+      [
+        "Loose Dental Filling",
+        "Snomed Clinical Terms"
+      ],
+      [
+        "Gingivitis",
+        "dfa014f4-cbd0-8d37-7134-1fcbc1010c96"
+      ],
+      [
+        "Social isolation (finding)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "1030583e-f2ca-be06-8552-88048690a88b",
+        "Gingivitis (disorder)"
+      ],
+      [
+        "Gingival Disease",
+        "http://snomed.info/sct"
+      ],
+      [
+        "2011-05-10",
+        "6a9e450a-291e-d798-1bf3-f0204bc69338"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "Acute infective cystitis (disorder)"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "2017-11-23"
+      ],
+      [
+        "1998-04-14",
+        "Medication review due (situation)"
+      ],
+      [
+        "1965-10-22",
+        "Received higher education"
+      ],
+      [
+        "87f4c224-97db-ebce-0a90-150370d2b56b",
+        "Medication review due"
+      ],
+      [
+        "Part-time employment",
+        "Snomed CT"
+      ],
+      [
+        "004e8cce-7045-8cbe-9fe0-1df5305b2003",
+        "Primary Dental Caries"
+      ],
+      [
+        "87f4c224-97db-ebce-0a90-150370d2b56b",
+        "Homeless"
+      ],
+      [
+        "1030583e-f2ca-be06-8552-88048690a88b",
+        "6a9e450a-291e-d798-1bf3-f0204bc69338"
+      ],
+      [
+        "1970-11-24",
+        "1972-11-28"
+      ],
+      [
+        "Gingival disease (disorder)",
+        "Snomed"
+      ],
+      [
+        "Full-time employment (finding)",
+        "Medication review due (situation)"
+      ],
+      [
+        "8f28f73d-ebbb-b6ab-bffc-3f4db5af3b10",
+        "Gingivitis"
+      ],
+      [
+        "004e8cce-7045-8cbe-9fe0-1df5305b2003",
+        "Acute Viral Pharyngitis"
+      ],
+      [
+        "Recurrent Urinary Tract Infection",
+        "Snomed"
+      ],
+      [
+        "2019-09-28",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "Part-time Employment",
+        "Unemployed"
+      ],
+      [
+        "Osteoporosis",
+        "SNOMED"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "Osteoporotic fracture of bone"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "Victim of intimate partner abuse (finding)"
+      ],
+      [
+        "Snomed.info/sct",
+        "Transport problem"
+      ],
+      [
+        "Stress (finding)",
+        "ee7347d5-eaa3-9fa7-d3e8-f797efeeab45"
+      ],
+      [
+        "Full-time Employment",
+        "Unemployed"
+      ],
+      [
+        "004e8cce-7045-8cbe-9fe0-1df5305b2003",
+        "Gingivitis"
+      ],
+      [
+        "Reports Of Violence In The Environment",
+        "cd6ad38d-42a4-4548-c5b2-ac886fb55b3a"
+      ],
+      [
+        "Stress",
+        "b88d58e0-ffbf-c9ef-76cd-6d728a64f8b2"
+      ],
+      [
+        "Full-time employment (finding)",
+        "SNOMED Clinical Terms (SNOMED CT)"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Abnormal findings diagnostic imaging heart+coronary circulat (finding)"
+      ],
+      [
+        "2000-12-09 to 2015-10-17",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "Loss of teeth",
+        "http://snomed.info/sct"
+      ],
+      [
+        "2016-03-12",
+        "Infection of Tooth"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "a57360f0-88a2-7934-d44d-52a373b20922"
+      ],
+      [
+        "233c8fad-27aa-c9f5-108c-9d531689442c",
+        "a4-4548-c5b2-ac886fb55b3a"
+      ],
+      [
+        "Educated to High School Level",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "2015-05-22",
+        "Medication Review Due"
+      ],
+      [
+        "1946-01-29",
+        "Lack of Access to Transportation"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "Pre-eclampsia"
+      ],
+      [
+        "2019-07-24",
+        "b9c8118c-d55b-019b-e559-3c37926a7af2"
+      ],
+      [
+        "Fracture of Ankle",
+        "Fracture of Bone"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "55f48372-a46e-f5a3-efbe-25c78411829a"
+      ],
+      [
+        "2019-08-22",
+        "2019-11-21"
+      ],
+      [
+        "Fever",
+        "http://snomed.info/sct"
+      ],
+      [
+        "cd6ad38d-42a4-4548-c5b2-ac886fb55b3a",
+        "d32fbad7-8290-e1a9-7951-406f3e4fcdbf"
+      ],
+      [
+        "44054006",
+        "Diabetes mellitus type 2"
+      ],
+      [
+        "2020-10-16",
+        "Diabetes Mellitus Type 2"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Alveolitis of Jaw"
+      ],
+      [
+        "Preinfarction syndrome",
+        "b432f030-a73d-02ac-9dd5-ddc77264b06c"
+      ],
+      [
+        "2013-12-04",
+        "Medication Review Due"
+      ],
+      [
+        "5deb01c9-98c8-2990-cfd1-e5b8d797b389",
+        "Gingivitis"
+      ],
+      [
+        "73595000",
+        "Stress"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "Osteoporosis"
+      ],
+      [
+        "Acute infective cystitis",
+        "http://snomed.info/sct"
+      ],
+      [
+        "9a938d39-154d-bcc7-3af0-8af4420ab638",
+        "d6ddd422-c38a-5ca3-a77e-2dbd63a00113"
+      ],
+      [
+        "97c98ce6-a664-7b20-0060-08365ff614da",
+        "Stress"
+      ],
+      [
+        "Social isolation (finding)",
+        "Stress (finding)"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Prediabetes"
+      ],
+      [
+        "Idiopathic atrophic hypothyroidism (disorder)",
+        "Snomed.info/sct"
+      ],
+      [
+        "Laceration - injury",
+        "Laceration of forearm"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "Aortic valve stenosis"
+      ],
+      [
+        "0ba9213f-5aa7-e1d0-40c8-aa517b289638",
+        "2017-01-31"
+      ],
+      [
+        "1faa7912-4784-a360-e49d-339e38d7122f",
+        "Gingivitis"
+      ],
+      [
+        "Full-time employment",
+        "Snomed CT"
+      ],
+      [
+        "2022-09-24",
+        "Medication review due"
+      ],
+      [
+        "58988810-805f-fcc1-0d46-689772c68b3e",
+        "99f7f120-c02c-60e1-39a8-f95d4d3e9cab"
+      ],
+      [
+        "1961-10-13",
+        "Risk activity involvement"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "Medication Review Due"
+      ],
+      [
+        "Limited social contact",
+        "sct"
+      ],
+      [
+        "Gingival Disease",
+        "Gingivitis"
+      ],
+      [
+        "Not in Labor Force",
+        "Unemployed"
+      ],
+      [
+        "Cough",
+        "dfa014f4-cbd0-8d37-7134-1fcbc1010c96"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "a88baebb-4f8a-b64f-9a06-5e154f32eb34"
+      ],
+      [
+        "23479019-fd1e-2b8b-c892-7be8d51849d4",
+        "d5384d90-5f39-15ec-4713-ae513158b781"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "4743a056-e31a-1ef3-6d68-c2f800ac8ba7"
+      ],
+      [
+        "Gingivitis (disorder)",
+        "dc9eed64-6341-4be0-30eb-114c72b65c0a"
+      ],
+      [
+        "Acute bronchitis (disorder)",
+        "Snomed"
+      ],
+      [
+        "Reports of violence in the environment (finding)",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "Childhood Asthma",
+        "http://snomed.info/sct"
+      ],
+      [
+        "23479019-fd1e-2b8b-c892-7be8d51849d4",
+        "37db53bc-88b1-e1da-0f0a-0baadfee7d82"
+      ],
+      [
+        "Received higher education",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Acute ST segment elevation myocardial infarction",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Lack of Access to Transportation",
+        "Transport Problem"
+      ],
+      [
+        "Medication review due (situation)",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8",
+        "f5c187e8-55d9-b0a3-7d4d-693056944e6c"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "Acute bacterial sinusitis"
+      ],
+      [
+        "Part-time employment (finding)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "2002-02-04",
+        "http://snomed.info/sct,114922200"
+      ],
+      [
+        "ade6a8b6-bbc3-41c1-0bfd-52359acdeb42",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "aa7d6df1-b645-2f44-de31-13f761ee67d6"
+      ],
+      [
+        "History of aortic valve replacement (situation)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "History of myocardial infarction",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Myocardial infarction (disorder)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "Medication review due (situation)"
+      ],
+      [
+        "Gingival Disease",
+        "Snomed Clinical Terms"
+      ],
+      [
+        "Essential hypertension",
+        "http://snomed.info/sct"
+      ],
+      [
+        "23479019-fd1e-2b8b-c892-7be8d51849d4",
+        "99943e4d-7081-f758-ab48-0a9750ab41fa"
+      ],
+      [
+        "Chronic Neck Pain",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Overdose",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Acute viral pharyngitis (disorder)",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "68cd3e92-de99-ec61-290f-3aacc7070aea",
+        "cd6ad38d-42a4-4548-c5b2-ac886fb55b3a"
+      ],
+      [
+        "Body mass index 30+ - obesity (finding)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Aortic valve stenosis"
+      ],
+      [
+        "Viral sinusitis",
+        "dfa014f4-cbd0-8d37-7134-1fcbc1010c96"
+      ],
+      [
+        "Victim of Intimate Partner Abuse (finding)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Blighted ovum",
+        "http://snomed.info/sct"
+      ],
+      [
+        "10b577c3-b668-2306-08db-d603cb3cb6d2",
+        "Medication Review Due"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "Gingivitis"
+      ],
+      [
+        "Aortic valve stenosis",
+        "http://snomed.info/sct"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "8553cbe6-d439-714d-8ff1-aa58c839bba8"
+      ],
+      [
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8",
+        "f55a77dc-ed9c-0d50-3180-bd53a93f3724"
+      ],
+      [
+        "Social isolation",
+        "dfa014f4-cbd0-8d37-7134-1fcbc1010c96"
+      ],
+      [
+        "41771dd4-24d0-0fd3-cb11-d96407742ce0",
+        "Acute viral pharyngitis (disorder)"
+      ],
+      [
+        "751c069c-4ce9-f7af-e0fa-dae5ece3bdaf",
+        "Gingivitis"
+      ],
+      [
+        "1997-11-24",
+        "Injury of tendon of the rotator cuff of shoulder (disorder)"
+      ],
+      [
+        "2017-01-31",
+        "b485e5ef-b29d-a63e-f450-27a0e1e72cd0"
+      ],
+      [
+        "249eff45-9f2e-8725-eeb2-42a424e3cc96",
+        "http://snomed.info/sct"
+      ],
+      [
+        "74543ca6-6415-25d4-b57a-1beff5d93b7f",
+        "87f4c224-97db-ebce-0a90-150370d2b56b"
+      ],
+      [
+        "Acute bacterial sinusitis",
+        "http://snomed.info/sct"
+      ],
+      [
+        "1231000119100",
+        "History of aortic valve replacement"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "b485e5ef-b29d-a63e-f450-27a0e1e72cd0"
+      ],
+      [
+        "8735e4a9-9472-a400-3802-10e656f431cb",
+        "Reports of violence in the environment (finding)"
+      ],
+      [
+        "8007d722-46e4-6af3-6d66-5b67c2b864b5",
+        "Received higher education"
+      ],
+      [
+        "Primary dental caries",
+        "Snomed.info/sct"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Primary dental caries"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "Stress"
+      ],
+      [
+        "Chronic pain",
+        "http://snomed.info/sct"
+      ],
+      [
+        "58988810-805f-fcc1-0d46-689772c68b3e",
+        "f7cc2aa0-cfc1-b345-2d8c-5bcf5eff8247"
+      ],
+      [
+        "Part-Time Employment",
+        "Person 842f7fce-f058-9d1c-14f37713a03f"
+      ],
+      [
+        "98076466-8698-4c2d-2264-5a488076830e",
+        "Sprain of wrist"
+      ],
+      [
+        "Medication Review Due",
+        "f87cc857-1190-52bf-eaa1-cbe734f37142"
+      ],
+      [
+        "0c02ff87-790d-b7ae-3c90-d70c4d0bc0a7",
+        "Medication Review Due"
+      ],
+      [
+        "Social Isolation",
+        "http://snomed.info/sct"
+      ],
+      [
+        "35f3d7d9-758a-6143-1a9a-589da53077d1",
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d"
+      ],
+      [
+        "004e8cce-7045-8cbe-9fe0-1df5305b2003",
+        "Fracture of Rib"
+      ],
+      [
+        "74543ca6-6415-25d4-b57a-1beff5d93b7f",
+        "Full-time employment"
+      ],
+      [
+        "Reports of Violence in the Environment",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "Body Mass Index 30+ - Obesity",
+        "Person 10b577c3-b668-2306-08db-d603cb3cb6d2"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Part-time Employment"
+      ],
+      [
+        "42605ba1-f904-e1af-3175-cb22932a9c7e",
+        "Victim of intimate partner abuse"
+      ],
+      [
+        "Body mass index 30+ - obesity (finding)",
+        "Chronic pain (finding)"
+      ],
+      [
+        "2013-05-21",
+        "6a9e450a-291e-d798-1bf3-f0204bc69338"
+      ],
+      [
+        "2025-08-06",
+        "Homeless"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "b432f030-a73d-02ac-9dd5-ddc77264b06c"
+      ],
+      [
+        "Snomed Clinical Terms",
+        "Stress"
+      ],
+      [
+        "History of aortic valve replacement",
+        "http://snomed.info/sct"
+      ],
+      [
+        "54d174cc-0236-0c47-c1e8-687c51c73786",
+        "Anemia"
+      ],
+      [
+        "87f4c224-97db-ebce-0a90-150370d2b56b",
+        "ee78a98f-dd4c-4be4-ef76-145ad0e4627e"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "612ebb08-a8ae-779d-97b7-35f4f6367cec"
+      ],
+      [
+        "Osteoporosis",
+        "sct"
+      ],
+      [
+        "2021-07-14",
+        "f26a831d-c3b3-5ed0-09e3-d63cb15aa47f"
+      ],
+      [
+        "Preinfarction Syndrome",
+        "http://snomed.info/sct"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "bc73562b-60b5-3f5c-415b-8b3848552037"
+      ],
+      [
+        "160904001",
+        "2387ec1e-9357-14fc-278e-a9c8bbc2e480"
+      ],
+      [
+        "2011-04-30",
+        "Full-Time Employment"
+      ],
+      [
+        "3590cb0d-1791-e563-42ab-7237059122d2",
+        "Otitis media (disorder)"
+      ],
+      [
+        "Full-time employment",
+        "Limited social contact"
+      ],
+      [
+        "History of myocardial infarction (situation)",
+        "Myocardial infarction (disorder)"
+      ],
+      [
+        "Event 2025-02-26 to 2025-03-19",
+        "Person 38790b18-1646-9c2d-1ca9-fe639a0bc2f9"
+      ],
+      [
+        "Aortic valve regurgitation (disorder)",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "724a845f-1e8a-c35d-0d07-72d07dd5680f",
+        "Medication review due"
+      ],
+      [
+        "2020-02-20",
+        "2020-08-20"
+      ],
+      [
+        "Part-time employment",
+        "dfa014f4-cbd0-8d37-7134-1fcbc1010c96"
+      ],
+      [
+        "Part-time employment",
+        "SNOMED"
+      ],
+      [
+        "2007-11-21",
+        "Prediabetes"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "Chronic kidney disease stage 2"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "bc19c2ec-24cd-1b0e-7a8f-7c830ffbbed9"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "Acute cholecystitis"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "Victim of intimate partner abuse"
+      ],
+      [
+        "Person IDs (d52d613b-2aad-9d6b-f52e-057904e35fff, 7e4d7cec-82b6-57b6-fd4b-0634cdd8be7b, 0a01cb61-33e8-09b5-f315-672a15f0f756, 397df2fb-12f5-eb2a-eb83-9457d484c85f, 1a7af907-f1ed-6b7c-5936-e58cf380e7d8, 6b535615-f321-1581-15eb-adeb2c70a313, cc03161b-667f-1241-a572-8758c5293613, 5ef0bb24-a171-1be7-c83a-f4075b4de74a, 9421bf2d-c927-b544-f43a-a792a49ab4b5, dda91f00-4961-2a7a-62a7-36dc181b9c03)",
+        "Snomed.info/sct"
+      ],
+      [
+        "9328d668-a3cd-7288-b556-07f0ee560a1a",
+        "Part-time employment"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "f714a853-db79-cd0e-19ce-5988f7431820"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "5de9cef2-bd70-4428-ca2a-477d01e918e6"
+      ],
+      [
+        "2a912c3d-3c7f-ef14-a6a7-fa84ebbe016b",
+        "Dependent drug abuse"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "Gingivitis (disorder)"
+      ],
+      [
+        "Not in labor force",
+        "Part-time employment"
+      ],
+      [
+        "162864005",
+        "Body mass index 30+ - obesity"
+      ],
+      [
+        "Chronic Intractable Migraine Without Aura",
+        "Chronic Pain"
+      ],
+      [
+        "1739419d-98e4-5f73-8b83-aa414dcf46a3",
+        "2e9ef2b3-7f6f-57c1-662a-10fea3995540"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "Normal pregnancy (finding)"
+      ],
+      [
+        "2020-10-03",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "7b72da6f-3e0e-3087-7bf5-9a62fa59e1c5",
+        "Appendicitis (disorder)"
+      ],
+      [
+        "History of coronary artery bypass grafting",
+        "Ischemic heart disease"
+      ],
+      [
+        "Part-time Employment",
+        "SNOMED CT"
+      ],
+      [
+        "9500638b-57d8-8b8f-c87e-961e7dabac25",
+        "Fracture of ankle"
+      ],
+      [
+        "373cfeb1-48ae-8f57-e06a-92807f6ee9a5",
+        "Full-time employment (finding)"
+      ],
+      [
+        "Rupture of appendix (disorder)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "2a912c3d-3c7f-ef14-a6a7-fa84ebbe016b",
+        "87f4c224-97db-ebce-0a90-150370d2b56b"
+      ],
+      [
+        "662a4786-379a-62d7-91da-412ddd6c5750",
+        "d6ddd422-c38a-5ca3-a77e-2dbd63a00113"
+      ],
+      [
+        "093cf832-6e55-fde6-3acd-b02357c937e8",
+        "Not in labor force"
+      ],
+      [
+        "1e6c01c6-56b9-7314-7fa2-0cf3ea97e536",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "651aa7b9-05fb-faac-186f-650250b8b6a5"
+      ],
+      [
+        "6cdf9f84-441f-c324-053b-23411eafd27d",
+        "Abnormal findings diagnostic imaging heart+coronary circulat"
+      ],
+      [
+        "Person 58988810-805f-fcc1-0d46-689772c68b3e",
+        "Social Isolation"
+      ],
+      [
+        "Chronic Neck Pain",
+        "Snomed"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "7b72da6f-3e0e-3087-7bf5-9a62fa59e1c5"
+      ],
+      [
+        "37171450-65bf-60c0-1bb0-e9393990695f",
+        "Disease caused by severe acute respiratory syndrome coronavirus 2"
+      ],
+      [
+        "Medication review due",
+        "Not in labor force"
+      ],
+      [
+        "Myocardial infarction (disorder)",
+        "Preinfarction syndrome (disorder)"
+      ],
+      [
+        "Full-time Employment",
+        "SNOMED CT"
+      ],
+      [
+        "54d174cc-0236-0c47-c1e8-687c51c73786",
+        "Abnormal Findings Diagnostic Imaging Heart+Coronary Circulat"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "6f6c52ca-9f8e-2fd3-7a38-5b5d5acd61bc"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "Abnormal findings diagnostic imaging heart+coronary circulat"
+      ],
+      [
+        "Full-time Employment",
+        "Part-time Employment"
+      ],
+      [
+        "Medication review due",
+        "e174cf44-d8c5-26e5-3aaa-0bb50540719c"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "Hyperlipidemia"
+      ],
+      [
+        "Medication Review Due",
+        "Person 10b577c3-b668-2306-08db-d603cb3cb6d2"
+      ],
+      [
+        "History of tubal ligation (situation)",
+        "Sterilization requested (situation)"
+      ],
+      [
+        "Gingival Disease (disorder)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Essential Hypertension"
+      ],
+      [
+        "Medication review due",
+        "snomed.info/sct"
+      ],
+      [
+        "23479019-fd1e-2b8b-c892-7be8d51849d4",
+        "4fa734d9-e3ce-27d7-a7e3-ca3ae96e53af"
+      ],
+      [
+        "Gingival disease (disorder)",
+        "Medication review due (situation)"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Chronic Low Back Pain"
+      ],
+      [
+        "2016-03-08",
+        "Acute Bronchitis"
+      ],
+      [
+        "2015-01-20",
+        "ed20027a-f406-f0fc-a591-1cc5cfb0db7d"
+      ],
+      [
+        "40179e0d-6e29-abf4-f8e5-5255895ece2b",
+        "History of myocardial infarction"
+      ],
+      [
+        "Chronic Neck Pain",
+        "Person 9adb47b3-016b-76b2-d4fa-942d3e220d66"
+      ],
+      [
+        "Snomed",
+        "Social Isolation"
+      ],
+      [
+        "Social Isolation",
+        "Stress"
+      ],
+      [
+        "Gingivitis",
+        "Person 38790b18-1646-9c2d-1ca9-fe639a0bc2f9"
+      ],
+      [
+        "237602007",
+        "Metabolic syndrome X"
+      ],
+      [
+        "15b660bf-3429-1a1c-e4e8-5a4298da4528",
+        "Laceration of hand"
+      ],
+      [
+        "SNOMED CT",
+        "Viral Sinusitis"
+      ],
+      [
+        "Primary dental caries",
+        "SNOMED"
+      ],
+      [
+        "10b577c3-b668-2306-08db-d603cb3cb6d2",
+        "Limited Social Contact"
+      ],
+      [
+        "10b577c3-b668-2306-08db-d603cb3cb6d2",
+        "fdc41eda-987d-5f98-fb3b-d651cc2836bd"
+      ],
+      [
+        "Gingivitis",
+        "Person 58988810-805f-fcc1-0d46-689772c68b3e"
+      ],
+      [
+        "Medication review due (situation)",
+        "Viral sinusitis (disorder)"
+      ],
+      [
+        "266948004",
+        "Has a criminal record"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Abnormal findings diagnostic imaging heart+coronary circulat"
+      ],
+      [
+        "Preinfarction syndrome",
+        "Snomed"
+      ],
+      [
+        "1149222004",
+        "Overdose"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "1969-04-08"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "62ccd641-588d-69c7-d5f6-06ad37519063"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "421a53ee-ffbe-b5ae-fe95-1ff5290533e0"
+      ],
+      [
+        "1961-06-24",
+        "Primary dental caries"
+      ],
+      [
+        "Polyp of colon (disorder)",
+        "Snomed.info/sct"
+      ],
+      [
+        "2015-06-02",
+        "Medication review due"
+      ],
+      [
+        "Full-time employment (finding)",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Chronic intractable migraine without aura (disorder)"
+      ],
+      [
+        "37171450-65bf-60c0-1bb0-e9393990695f",
+        "Loss of taste"
+      ],
+      [
+        "87f4c224-97db-ebce-0a90-150370d2b56b",
+        "Gingivitis"
+      ],
+      [
+        "Miscarriage in first trimester",
+        "Normal pregnancy"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "6e656019-32f0-5531-70d3-dc059aa77523"
+      ],
+      [
+        "2caaa482-193c-b8fa-e26d-6f4b024f9506",
+        "Not in labor force (finding)"
+      ],
+      [
+        "Viral sinusitis (disorder)",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "160903",
+        "2020-10-16"
+      ],
+      [
+        "2014-06-24",
+        "a57360f0-88a2-7934-d44d-52a373b20922"
+      ],
+      [
+        "Fractured dental filling",
+        "df91cace-5e67-904c-7704-400f4530d191"
+      ],
+      [
+        "Chronic low back pain",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Only Received Primary School Education",
+        "http://snomed.info/sct"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "History of coronary artery bypass grafting (situation)"
+      ],
+      [
+        "Full-time employment (finding)",
+        "Stress (finding)"
+      ],
+      [
+        "86ed1d81-51dc-b49b-8735-4a7accc8fa49",
+        "Full-time employment"
+      ],
+      [
+        "2016-01-20",
+        "Full-time employment (finding)"
+      ],
+      [
+        "Full-time employment (finding)",
+        "b5fe3927-24ad-4295-0ef8-ad35314e1ee0"
+      ],
+      [
+        "1990-02-05",
+        "http://snomed.info/sct,160903007"
+      ],
+      [
+        "Injury of Neck",
+        "Whiplash Injury to Neck"
+      ],
+      [
+        "Osteoarthritis of hip",
+        "snomed.info/sct"
+      ],
+      [
+        "2018-06-23",
+        "Metabolic syndrome X (disorder)"
+      ],
+      [
+        "1999-04-22",
+        "92bf7fae-63b4-fb7d-6afa-57199e171b91"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Educated to High School Level"
+      ],
+      [
+        "2830206a-bdfe-91ee-1008-93bb8d26dd89",
+        "Has a criminal record"
+      ],
+      [
+        "Full-Time Employment (finding)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "87f4c224-97db-ebce-0a90-150370d2b56b",
+        "Stress"
+      ],
+      [
+        "Chronic sinusitis (disorder)",
+        "e82e71a9-ae90-3430-66a5-7fac9066cd4c"
+      ],
+      [
+        "2015-06-02",
+        "2017-06-13"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "ed20027a-f406-f0fc-a591-1cc5cfb0db7d"
+      ],
+      [
+        "Osteoporotic fracture of bone",
+        "Snomed CT"
+      ],
+      [
+        "1603f9c6-c49e-358f-cc1c-4c92c7924dbd",
+        "Acute infective cystitis (disorder)"
+      ],
+      [
+        "1739419d-98e4-5f73-8b83-aa414dcf46a3",
+        "b83d492f-cf98-b313-78c9-ff99db00f52e"
+      ],
+      [
+        "1990-02-05",
+        "2d0-00dd-de1f-4535-8015b58f32aa"
+      ],
+      [
+        "1603f9c6-c49e-358f-cc1c-4c92c7924dbd",
+        "Medication review due (situation)"
+      ],
+      [
+        "028ad6e3-7657-dfad-8498-2ad9c2937f86",
+        "Body mass index 30+ - obesity"
+      ],
+      [
+        "Normal pregnancy",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Myocardial Infarction",
+        "Preinfarction Syndrome"
+      ],
+      [
+        "Medication Review Due",
+        "Person 58988810-805f-fcc1-0d46-689772c68b3e"
+      ],
+      [
+        "cd6ad38d-42a4-4548-c5b2-ac886fb55b3a",
+        "da681d71-bf32-5736-23fa-a013acac9544"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "1969-02-11 to 1970-02-17"
+      ],
+      [
+        "58988810-805f-fcc1-0d46-689772c68b3e",
+        "f5b550cf-e39a-873a-fa86-47df0734b467"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "e6ff6af3-a797-3402-4681-f0f86f714dde"
+      ],
+      [
+        "0ba9213f-5aa7-e1d0-40c8-aa517b289638",
+        "11452398-2b11-dbb6-376c-1c718e4611e2"
+      ],
+      [
+        "38466e0f-942b-6f71-47cd-496fec5bec4f",
+        "http://snomed.info/sct"
+      ],
+      [
+        "2023-09-30",
+        "Medication review due"
+      ],
+      [
+        "Primary Dental Caries",
+        "Snomed"
+      ],
+      [
+        "090376ef-8313-fbab-3791-f50f934a2e8a",
+        "41771dd4-24d0-0fd3-cb11-d96407742ce0"
+      ],
+      [
+        "History of appendectomy (situation)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "2023-05-05",
+        "Overdose"
+      ],
+      [
+        "0ace1fc4-89aa-0f6e-6c08-2b21e2082aba",
+        "10b577c3-b668-2306-08db-d603cb3cb6d2"
+      ],
+      [
+        "Acute infective cystitis (disorder)",
+        "Normal pregnancy (finding)"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Fracture of forearm"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Diabetes Mellitus Type 2"
+      ],
+      [
+        "Fracture of Ankle",
+        "http://snomed.info/sct"
+      ],
+      [
+        "87f4c224-97db-ebce-0a90-150370d2b56b",
+        "Full-time employment"
+      ],
+      [
+        "Essential Hypertension",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Chronic sinusitis",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Gingival disease (disorder)",
+        "Gingivitis (disorder)"
+      ],
+      [
+        "Unhealthy alcohol drinking behavior (finding)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Medication review due",
+        "c56ef2c3-a2fa-5138-5e32-04a877e50748"
+      ],
+      [
+        "10b577c3-b668-2306-08db-d603cb3cb6d2",
+        "Gingivitis"
+      ],
+      [
+        "109570002",
+        "7c442ca4-f4fd-bea7-acdd-c84e3535a034"
+      ],
+      [
+        "Microalbuminuria due to type 2 diabetes mellitus",
+        "e174cf44-d8c5-26e5-3aaa-0bb50540719c"
+      ],
+      [
+        "31c70147-de72-83c0-ffbc-1569eb735843",
+        "Homeless"
+      ],
+      [
+        "Body mass index 30+ - obesity",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "Reports of Violence in the Environment",
+        "http://snomed.info/sct"
+      ],
+      [
+        "1986-01-08",
+        "Received higher education"
+      ],
+      [
+        "Normal pregnancy (finding)",
+        "Past pregnancy history of miscarriage (situation)"
+      ],
+      [
+        "87f4c224-97db-ebce-0a90-150370d2b56b",
+        "Victim of intimate partner abuse"
+      ],
+      [
+        "87f4c224-97db-ebce-0a90-150370d2b56b",
+        "ad84937b-4763-4d25-43cc-696da028592c"
+      ],
+      [
+        "Nonproliferative Diabetic Retinopathy Due to Type 2 Diabetes Mellitus",
+        "Snomed"
+      ],
+      [
+        "All code references (http://snomed.info/sct,*)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "9e28a166-dc54-c383-0460-49381e5dafa6",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "8e40a411-3926-3ed9-888a-33c3233d0b28",
+        "Social Isolation"
+      ],
+      [
+        "Chronic kidney disease stage 2",
+        "Snomed"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "944de6ee-13af-7a74-c875-72d827251aba"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "Received higher education (finding)"
+      ],
+      [
+        "0eb97c7c-50e6-0401-87cc-1cf20f679c28",
+        "Stress"
+      ],
+      [
+        "60a65cf5-9066-38e3-2460-156c24dd2f03",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "2014-02-06",
+        "6a9e450a-291e-d798-1bf3-f0204bc69338"
+      ],
+      [
+        "Fractured dental filling",
+        "dfa014f4-cbd0-8d37-7134-1fcbc1010c96"
+      ],
+      [
+        "1997-07-05",
+        "60e78b24-a592-0757-64dd-35fff9fedfc6"
+      ],
+      [
+        "3a7af76d-b6af-137f-05a5-f3bd05d6a619",
+        "Not in labor force (finding)"
+      ],
+      [
+        "Event 2025-03-19",
+        "Gingival Disease"
+      ],
+      [
+        "Part-time employment",
+        "c51daa65-44d9-c3cd-cc07-0fa896ee1e7d"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "ee7347d5-eaa3-9fa7-d3e8-f797efeeab45"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Anemia"
+      ],
+      [
+        "Has a criminal record",
+        "snomed.info/sct"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Snomed"
+      ],
+      [
+        "1739419d-98e4-5f73-8b83-aa414dcf46a3",
+        "af70cdf3-e88b-592b-45f7-26fe84aa1b4d"
+      ],
+      [
+        "815fc002-ba59-2695-c1d3-fc62606a8c11",
+        "History of tubal ligation (situation)"
+      ],
+      [
+        "1990-07-26",
+        "http://snomed.info/sct,124171000119105"
+      ],
+      [
+        "2016-02-01",
+        "Acute Viral Pharyngitis"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "History of Tubal Ligation"
+      ],
+      [
+        "04eec120-22d8-d750-9178-3d2f97291b73",
+        "Past Pregnancy History of Miscarriage"
+      ],
+      [
+        "01f31a26-e23f-b6d1-934f-4e1c67321e5e",
+        "6a9e450a-291e-d798-1bf3-f0204bc69338"
+      ],
+      [
+        "597722bb-5308-dd88-464b-45a77570af55",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "Limited social contact",
+        "c7e1ea89-5c2d-0130-ad1b-88571bbacbd8"
+      ],
+      [
+        "8007d722-46e4-6af3-6d66-5b67c2b864b5",
+        "Has a criminal record"
+      ],
+      [
+        "1990-02-05",
+        "e82e71a9-ae90-3430-66a5-7fac9066cd4c"
+      ],
+      [
+        "7cc4a23c-7f5c-4b5f-d93b-5eab3003daeb",
+        "cd6ad38d-42a4-4548-c5b2-ac886fb55b3a"
+      ],
+      [
+        "Suspected disease caused by Severe acute respiratory coronavirus 2",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Gingivitis",
+        "Medication review due"
+      ],
+      [
+        "87f4c224-97db-ebce-0a90-150370d2b56b",
+        "cc127e1c-3d00-9a7a-3b16-cbae0f1a03f7"
+      ],
+      [
+        "2387ec1e-9357-14fc-278e-a9c8bbc2e480",
+        "66383009"
+      ],
+      [
+        "27f10b4e-95c2-f844-eb44-f72c679e75a0",
+        "Stress"
+      ],
+      [
+        "Appendicitis (disorder)",
+        "Rupture of appendix (disorder)"
+      ],
+      [
+        "Full-time employment (finding)",
+        "Not in labor force ("
+      ],
+      [
+        "020b8fa5-5125-b555-5b48-e074e62765b3",
+        "Chronic sinusitis (disorder)"
+      ],
+      [
+        "2017-06-13",
+        "2021-07-06"
+      ],
+      [
+        "Miscarriage in First Trimester",
+        "http://snomed.info/sct"
+      ],
+      [
+        "54d174cc-0236-0c47-c1e8-687c51c73786",
+        "Prediabetes"
+      ],
+      [
+        "Event 2014-02-18 to 2021-07-20",
+        "Stress"
+      ],
+      [
+        "98812f8c-3e6e-c9cc-ab30-a73449c05f8f",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "History of tubal ligation (situation)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Anemia",
+        "http://snomed.info/sct"
+      ],
+      [
+        "1994-10-01",
+        "http://snomed.info/sct,18718003"
+      ],
+      [
+        "Seizure disorder (disorder)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "9aa59bf6-a4ea-c467-3bc6-0eb1972e283c",
+        "Acute Viral Pharyngitis"
+      ],
+      [
+        "2020-07-29",
+        "5b97c223-6381-00c7-953a-e0034d12e071"
+      ],
+      [
+        "Acute infective cystitis",
+        "SNOMED Clinical Terms (SNOMED CT)"
+      ],
+      [
+        "History of seizure (situation)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Medication review due",
+        "Stress"
+      ],
+      [
+        "Event 2025-08-27",
+        "Part-Time Employment"
+      ],
+      [
+        "5ad9a3b2-565b-071e-4936-66dee09c881b",
+        "87f4c224-97db-ebce-0a90-150370d2b56b"
+      ],
+      [
+        "37171450-65bf-60c0-1bb0-e9393990695f",
+        "Cough"
+      ],
+      [
+        "342a85c4-7281-0de0-3fcd-367ce0cf8971",
+        "e82e71a9-ae90-3430-66a5-7fac9066cd4c"
+      ],
+      [
+        "Received Higher Education",
+        "cd6ad38d-42a4-4548-c5b2-ac886fb55b3a"
+      ],
+      [
+        "Stress (finding)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Medication review due",
+        "sct"
+      ],
+      [
+        "History of appendectomy (situation)",
+        "d7aa0061-15d2-9f8d-4321-760fccc777cf"
+      ],
+      [
+        "abdf4385-037e-9807-d542-87684e6e2974",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "27d7252d-35c9-e84d-dde4-4a6b32d9dba2",
+        "Not in labor force"
+      ],
+      [
+        "41771dd4-24d0-0fd3-cb11-d96407742ce0",
+        "geo"
+      ],
+      [
+        "8735e4a9-9472-a400-3802-10e656f431cb",
+        "Unemployed (finding)"
+      ],
+      [
+        "Medication review due",
+        "Snomed"
+      ],
+      [
+        "966d1ef0-b645-2675-cafb-162a60ebff72",
+        "Received higher education (finding)"
+      ],
+      [
+        "Lack of access to transportation",
+        "Transport problem"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "97141611-9f19-d986-ebd1-425fb67f65f4"
+      ],
+      [
+        "Part-time Employment",
+        "Snomed"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "Full-time employment"
+      ],
+      [
+        "2014-01-14",
+        "ed20027a-f406-f0fc-a591-1cc5cfb0db7d"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Full-time employment (finding)"
+      ],
+      [
+        "2caaa482-193c-b8fa-e26d-6f4b024f9506",
+        "Medication review due (situation)"
+      ],
+      [
+        "Body mass index 30+ - obesity",
+        "ffa5e10f-65ba-d31f-94ac-7d62fad9deb7"
+      ],
+      [
+        "Sprain of wrist",
+        "http://snomed.info/sct"
+      ],
+      [
+        "b01e8863-e903-975c-ee57-c9226e36650b",
+        "cd6ad38d-42a4-4548-c5b2-ac886fb55b3a"
+      ],
+      [
+        "2016-03-12",
+        "Gingivitis"
+      ],
+      [
+        "1faa7912-4784-a360-e49d-339e38d7122f",
+        "6a9e450a-291e-d798-1bf3-f0204bc69338"
+      ],
+      [
+        "Lack of access to transportation",
+        "Snomed.info/sct"
+      ],
+      [
+        "56cc013c-105e-a139-a379-c2fe65b9fd53",
+        "dfa014f4-cbd0-8d37-7134-1fcbc1010c96"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "8ca5c658-56c3-ee49-e471-fc5783b876dd"
+      ],
+      [
+        "1980-11-07",
+        "Essential hypertension"
+      ],
+      [
+        "0293174d-8701-cbdd-292f-95bd6e9b2418",
+        "Medication review due (situation)"
+      ],
+      [
+        "Full-time Employment",
+        "Snomed"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Osteoporosis (disorder)"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Metabolic syndrome X"
+      ],
+      [
+        "0ba9213f-5aa7-e1d0-40c8-aa517b289638",
+        "2017-02-14"
+      ],
+      [
+        "Snomed.info/sct",
+        "Unemployed"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "3d9c6382-fba1-bf67-9f1c-a023ad1b683c"
+      ],
+      [
+        "Gingival disease (disorder)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Medication review due (situation)",
+        "Snomed.info/sct"
+      ],
+      [
+        "Abnormal findings diagnostic imaging heart+coronary circulat",
+        "http://snomed.info/sct"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Full-time employment"
+      ],
+      [
+        "Metabolic Syndrome X",
+        "http://snomed.info/sct"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "Social Isolation"
+      ],
+      [
+        "3a7af76d-b6af-137f-05a5-f3bd05d6a619",
+        "Victim of intimate partner abuse (finding)"
+      ],
+      [
+        "2016-06-11",
+        "Acute bacterial sinusitis"
+      ],
+      [
+        "2830206a-bdfe-91ee-1008-93bb8d26dd89",
+        "87f4c224-97db-ebce-0a90-150370d2b56b"
+      ],
+      [
+        "1990-02-05",
+        "Full-time Employment"
+      ],
+      [
+        "Medication review due (situation)",
+        "b1ee5904-75f1-5579-ce86-26457d92aaff"
+      ],
+      [
+        "2016-01-26",
+        "b485e5ef-b29d-a63e-f450-27a0e1e72cd0"
+      ],
+      [
+        "Gingivitis",
+        "Primary dental caries"
+      ],
+      [
+        "2016-02-09",
+        "Acute Viral Pharyngitis"
+      ],
+      [
+        "714628002",
+        "Prediabetes"
+      ],
+      [
+        "Diabetes Mellitus Type 2",
+        "Hypertriglyceridemia"
+      ],
+      [
+        "Sprain of ankle",
+        "http://snomed.info/sct"
+      ],
+      [
+        "9fb95994-1ade-0444-fe7f-5dba4566202b",
+        "Risk activity involvement (finding)"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Sprain"
+      ],
+      [
+        "1986-12-12",
+        "Ischemic heart disease"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "Preinfarction syndrome"
+      ],
+      [
+        "1090321a-94dd-3999-24d2-36898d3387ad",
+        "58988810-805f-fcc1-0d46-689772c68b3e"
+      ],
+      [
+        "Fracture of Rib",
+        "Snomed"
+      ],
+      [
+        "cd6ad38d-42a4-4548-c5b2-ac886fb55b3a",
+        "f1b80912-8ba6-35d3-abb4-a145f8c510e0"
+      ],
+      [
+        "Snomed CT",
+        "Sprain"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "Gingival disease (disorder)"
+      ],
+      [
+        "Overdose (disorder)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "724a845f-1e8a-c35d-0d07-72d07dd5680f",
+        "Stress"
+      ],
+      [
+        "2025-06-25",
+        "Full-time employment (finding)"
+      ],
+      [
+        "87f4c224-97db-ebce-0a90-150370d2b56b",
+        "Osteoarthritis of hip"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "Gallbladder calculus"
+      ],
+      [
+        "Gingivitis (disorder)",
+        "Primary dental caries (disorder)"
+      ],
+      [
+        "10b577c3-b668-2306-08db-d603cb3cb6d2",
+        "751c069c-4ce9-f7af-e0fa-dae5ece3bdaf"
+      ],
+      [
+        "Limited social contact",
+        "ee78a98f-dd4c-4be4-ef76-145ad0e4627e"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Infection of Tooth"
+      ],
+      [
+        "History of Tubal Ligation",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Ischemic Heart Disease (disorder)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "23479019-fd1e-2b8b-c892-7be8d51849d4",
+        "Recurrent Urinary Tract Infection"
+      ],
+      [
+        "Stress (finding)",
+        "b5fe3927-24ad-4295-0ef8-ad35314e1ee0"
+      ],
+      [
+        "2016-02-09",
+        "b485e5ef-b29d-a63e-f450-27a0e1e72cd0"
+      ],
+      [
+        "Acute Viral Pharyngitis",
+        "Person 58988810-805f-fcc1-0d46-689772c68b3e"
+      ],
+      [
+        "1995-10-31",
+        "http://snomed.info/sct,1149222004"
+      ],
+      [
+        "Chronic Pain",
+        "http://snomed.info/sct"
+      ],
+      [
+        "1603f9c6-c49e-358f-cc1c-4c92c7924dbd",
+        "Reports of violence in the environment (finding)"
+      ],
+      [
+        "07e0b8b2-41a5-bdd6-9bb1-9eacc19268a4",
+        "Part-time employment"
+      ],
+      [
+        "2024-10-05",
+        "Stress"
+      ],
+      [
+        "Gingivitis",
+        "e174cf44-d8c5-26e5-3aaa-0bb50540719c"
+      ],
+      [
+        "8735e4a9-9472-a400-3802-10e656f431cb",
+        "Medication review due (situation)"
+      ],
+      [
+        "Medication Review Due",
+        "b54baf0d-30c9-7f48-d37d-ef7a712c1e63"
+      ],
+      [
+        "Part-time employment (finding)",
+        "Snomed.info/sct"
+      ],
+      [
+        "f014b504-1184-4776-dce9-fb762c4c55d4",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Acute viral pharyngitis",
+        "Snomed.info/sct"
+      ],
+      [
+        "Gingivitis",
+        "snomed.info/sct"
+      ],
+      [
+        "093cf832-6e55-fde6-3acd-b02357c937e8",
+        "Social isolation"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "Limited social contact"
+      ],
+      [
+        "Received Higher Education",
+        "http://snomed.info/sct"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "51031a90-06b1-fad0-d991-2422c8316cad"
+      ],
+      [
+        "Limited social contact (finding)",
+        "Medication review due (situation)"
+      ],
+      [
+        "1739419d-98e4-5f73-8b83-aa414dcf46a3",
+        "2ddf492b-3169-ce6d-ae7c-dcc995277a81"
+      ],
+      [
+        "History of tubal ligation (situation)",
+        "d6ddd422-c38a-5ca3-a77e-2dbd63a00113"
+      ],
+      [
+        "Medication review due (situation)",
+        "f25b6b91-0d2f-ccf9-dd18-930736f7670a"
+      ],
+      [
+        "53aa3ee8-04fa-4108-aabc-72a3b1ee31a8",
+        "Prediabetes"
+      ],
+      [
+        "1090321a-94dd-3999-24d2-36898d3387ad",
+        "Sterilization requested (situation)"
+      ],
+      [
+        "Not in labor force",
+        "SNOMED"
+      ],
+      [
+        "Impacted molars (disorder)",
+        "Snomed.info/sct"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "Fibromyalgia"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "33d3a29b-3899-5985-ed27-8bc885819071"
+      ],
+      [
+        "Gingivitis",
+        "Person 842f7fce-f058-9d1c-d11a-14f37713a03f"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "Part-time employment"
+      ],
+      [
+        "Limited social contact (finding)",
+        "Social isolation (finding)"
+      ],
+      [
+        "Full-time employment",
+        "Unemployed"
+      ],
+      [
+        "Body mass index 30+ - obesity",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Stress (finding)",
+        "d6ddd422-c38a-5ca3-a77e-2dbd63a00113"
+      ],
+      [
+        "3590cb0d-1791-e563-42ab-7237059122d2",
+        "Gingivitis (disorder)"
+      ],
+      [
+        "1996-04-02",
+        "Part-time employment (finding)"
+      ],
+      [
+        "Medication Review Due",
+        "SNOMED CT"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Part-time employment"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Part-time employment (finding)"
+      ],
+      [
+        "160968000",
+        "Risk activity involvement"
+      ],
+      [
+        "Ischemic heart disease",
+        "http://snomed.info/sct"
+      ],
+      [
+        "4ba79afa-4dfa-07b3-8115-5854190d1ce6",
+        "Medication review due (situation)"
+      ],
+      [
+        "Microalbuminuria due to type 2 diabetes mellitus",
+        "Snomed"
+      ],
+      [
+        "1739419d-98e4-5f73-8b83-aa414dcf46a3",
+        "ff27db4d-6c77-8451-d768-937704bbd3df"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "0c7c74b0-c71f-0d29-7be1-056b2eba4ef1"
+      ],
+      [
+        "32911000",
+        "Homeless"
+      ],
+      [
+        "Gingivitis",
+        "SNOMED"
+      ],
+      [
+        "01f31a26-e23f-b6d1-934f-4e1c67321e5e",
+        "Stress (finding)"
+      ],
+      [
+        "Limited Social Contact",
+        "Medication Review Due"
+      ],
+      [
+        "Disease caused by severe acute respiratory syndrome coronavirus 2",
+        "http://snomed.info/sct"
+      ],
+      [
+        "23479019-fd1e-2b8b-c892-7be8d51849d4",
+        "53e9b88c-e930-8b63-25b8-52bbc9d498d1"
+      ],
+      [
+        "Event 2025-03-12",
+        "Medication Review Due"
+      ],
+      [
+        "0ff66e5f-f8b7-f5f4-d818-4a1ce9835971",
+        "11452398-2b11-dbb6-376c-1c718e4611e2"
+      ],
+      [
+        "1994-09-17",
+        "http://snomed.info/sct,314529007"
+      ],
+      [
+        "1999-04-22",
+        "http://snomed.info/sct,1149222004"
+      ],
+      [
+        "2023-10-21",
+        "Overdose"
+      ],
+      [
+        "1997-07-05",
+        "http://snomed.info/sct,162864005"
+      ],
+      [
+        "Full-Time Employment (finding)",
+        "Unemployed (finding)"
+      ],
+      [
+        "Acute ST segment elevation myocardial infarction",
+        "History of coronary artery bypass grafting"
+      ],
+      [
+        "Gallbladder calculus",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Chronic intractable migraine without aura (disorder)",
+        "Snomed.info/sct"
+      ],
+      [
+        "67903f86-53b8-cc86-94c0-254dab6ee188",
+        "Medication review due"
+      ],
+      [
+        "Event 2025-08-27",
+        "Medication Review Due"
+      ],
+      [
+        "48d47aba-58ae-6ac4-1eba-523e24e04841",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "39a2a960-3c81-e5bf-0c4c-909cd005a700",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "41771dd4-24d0-0fd3-cb11-d96407742ce0",
+        "Acute bronchitis (disorder)"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Polyp of colon (disorder)"
+      ],
+      [
+        "Medication Review Due",
+        "Person 842f7fce-f058-9d1c-d11a-14f37713a03f"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "Medication review due"
+      ],
+      [
+        "Streptococcal sore throat",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Gingivitis (disorder)",
+        "Snomed"
+      ],
+      [
+        "2017-08-23",
+        "2018-07-18"
+      ],
+      [
+        "d5442b01-c5ec-ac00-4b07-91b260284b4f",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "Acute bronchitis",
+        "Snomed CT"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "7b03cc63-6c2d-b65b-aaa9-3e49bfda0815"
+      ],
+      [
+        "16e9f4ea-d409-43d5-907a-7dd78d8415db",
+        "e82e71a9-ae90-3430-66a5-7fac9066cd4c"
+      ],
+      [
+        "afe2fe25-367e-b79e-0c10-f63b82fa38af",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "0650638b-1b68-fab0-a62d-e5a3d5bc3411",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "706893006",
+        "Victim of intimate partner abuse"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "353d81ee-3f48-17ff-da55-9b955794cec1"
+      ],
+      [
+        "926946ba-6e5b-138c-0c64-bb5419100aae",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "1603f9c6-c49e-358f-cc1c-4c92c7924dbd",
+        "Stress (finding)"
+      ],
+      [
+        "Acute infective cystitis",
+        "dfa014f4-cbd0-8d37-7134-1fcbc1010c96"
+      ],
+      [
+        "1986-01-08",
+        "Has a criminal record"
+      ],
+      [
+        "3d39f0d2-1133-0fc5-374f-d303cce99daa",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "Part-Time Employment",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Epilepsy (disorder)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Social isolation (finding)",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "c8bbfb10-1d2f-28a5-38e2-7e943aa3cc98",
+        "dfa014f4-cbd0-8d37-7134-1fcbc1010c96"
+      ],
+      [
+        "Past pregnancy history of miscarriage (situation)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Fibromyalgia",
+        "http://snomed.info/sct"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "eb2cfca4-343e-392e-e3a8-169a527a5ad0"
+      ],
+      [
+        "SNOMED Clinical Terms (SNOMED CT)",
+        "Whiplash injury to neck (disorder)"
+      ],
+      [
+        "1603f9c6-c49e-358f-cc1c-4c92c7924dbd",
+        "9a3bd81a-cb80-b1fa-3203-2f147d65a1ce"
+      ],
+      [
+        "2002-01-30",
+        "Stress"
+      ],
+      [
+        "350696c9-c484-cdcc-715a-712e41d55629",
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3"
+      ],
+      [
+        "6b18048e-b158-eb07-e4f0-0fb7422a3517",
+        "Full-time employment (finding)"
+      ],
+      [
+        "Osteoporosis",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Chronic Pain",
+        "Snomed"
+      ],
+      [
+        "30a56ab0-01ba-1080-20eb-4172df32cbac",
+        "Reports of violence in the environment (finding)"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Medication review due"
+      ],
+      [
+        "2016-03-04",
+        "Medication Review Due"
+      ],
+      [
+        "47c3d6b1-cbba-cb3e-d5f8-81ba6f22bc0c",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "Snomed Clinical Terms",
+        "Viral Sinusitis"
+      ],
+      [
+        "1995-10-31",
+        "f35c3be8-6464-be05-021d-fe2d25f86e7a"
+      ],
+      [
+        "Unemployed",
+        "http://snomed.info/sct"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Diabetes mellitus type 2"
+      ],
+      [
+        "Overdose (disorder)",
+        "d55239fb-2b33-d68f-a787-e556a3f35d91"
+      ],
+      [
+        "2017-08-01",
+        "2017-08-22"
+      ],
+      [
+        "Nasal congestion",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Appendicitis (disorder)",
+        "History of appendectomy (situation)"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Hypertriglyceridemia"
+      ],
+      [
+        "2009-10-03 to 2015-10-17",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "Full-time employment (finding)",
+        "Snomed.info/sct"
+      ],
+      [
+        "Prediabetes",
+        "snomed.info/sct"
+      ],
+      [
+        "Lack of Access to Transportation",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "c7e1ea89-5c2d-0130-ad1b-88571bbacbd8"
+      ],
+      [
+        "224299000",
+        "Received higher education"
+      ],
+      [
+        "Chronic Pain",
+        "Person 9adb47b3-016b-76b2-d4fa-942d3e220d66"
+      ],
+      [
+        "99f7f120-c02c-60e1-39a8-f95d4d3e9cab",
+        "Full-time employment (finding)"
+      ],
+      [
+        "837271a0-b5ea-2509-7f8e-76a2958fdab0",
+        "http://snomed.info/sct"
+      ],
+      [
+        "3cbd1081-c0af-f16b-1f4e-685994b60542",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "9ef7639d-b319-ec25-b8a3-5079d1ffce92",
+        "Metabolic Syndrome X"
+      ],
+      [
+        "01f31a26-e23f-b6d1-934f-4e1c67321e5e",
+        "Gingival disease (disorder)"
+      ],
+      [
+        "SNOMED",
+        "Stress"
+      ],
+      [
+        "2013-06-28",
+        "7b03cc63-6c2d-b65b-aaa9-3e49bfda0815"
+      ],
+      [
+        "07e0b8b2-41a5-bdd6-9bb1-9eacc19268a4",
+        "Medication review due"
+      ],
+      [
+        "Fracture of bone",
+        "Osteoporotic fracture of bone"
+      ],
+      [
+        "2016-02-03",
+        "Gingivitis (disorder)"
+      ],
+      [
+        "Anemia",
+        "e786438c-7404-b8b2-59aa-ba6e7d9fb6f6"
+      ],
+      [
+        "58988810-805f-fcc1-0d46-689772c68b3e",
+        "f26a831d-c3b3-5ed0-09e3-d63cb15aa47f"
+      ],
+      [
+        "54d174cc-0236-0c47-c1e8-687c51c73786",
+        "Acute Viral Pharyngitis"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Medication Review Due"
+      ],
+      [
+        "2020-02-01",
+        "2023-02-04"
+      ],
+      [
+        "Limited social contact",
+        "Refugee"
+      ],
+      [
+        "314529007",
+        "Medication review due"
+      ],
+      [
+        "Stress (finding)",
+        "Unhealthy alcohol drinking behavior (finding)"
+      ],
+      [
+        "Acute Bronchitis",
+        "Snomed"
+      ],
+      [
+        "2011-04-29",
+        "Diabetes mellitus type 2"
+      ],
+      [
+        "Full-time employment",
+        "Snomed.info/sct"
+      ],
+      [
+        "53a2b88b-a962-5a7b-ef1e-6e9d77b1ddd0",
+        "d6ddd422-c38a-5ca3-a77e-2dbd63a00113"
+      ],
+      [
+        "Gingival Disease (disorder)",
+        "Gingivitis (disorder)"
+      ],
+      [
+        "Pre-eclampsia",
+        "SNOMED CT"
+      ],
+      [
+        "73595000",
+        "8147a6d3-9115-7d2f-4fc9-1386345e4dec"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Injury of tendon of the rotator cuff of shoulder (disorder)"
+      ],
+      [
+        "Ischemic heart disease",
+        "b2ff4395-71ac-b7b4-bdbe-174db000eea8"
+      ],
+      [
+        "37171450-65bf-60c0-1bb0-e9393990695f",
+        "Fever"
+      ],
+      [
+        "2015-06-02",
+        "2018-06-19"
+      ],
+      [
+        "Viral sinusitis (disorder)",
+        "aa7d6df1-b645-2f44-de31-13f761ee67d6"
+      ],
+      [
+        "Educated to High School Level",
+        "Snomed"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Body Mass Index 30+ - Obesity"
+      ],
+      [
+        "1994-10-01",
+        "88042d70-3e3c-8af3-ea11-b11d6b2f7554"
+      ],
+      [
+        "Metabolic syndrome X",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Homeless",
+        "snomed.info/sct"
+      ],
+      [
+        "2017-11-15",
+        "Medication Review Due"
+      ],
+      [
+        "Part-time Employment",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "Primary dental caries (disorder)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Not in labor force (finding)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Part-time employment",
+        "snomed.info/sct"
+      ],
+      [
+        "1997-04-08",
+        "Stress (finding)"
+      ],
+      [
+        "11114c41-12ca-4dad-6c8e-b806d435abb9",
+        "Gingival disease"
+      ],
+      [
+        "Stress",
+        "snomed.info/sct"
+      ],
+      [
+        "Part-time employment (finding)",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "Full-time Employment",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "History of aortic valve replacement (situation)",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "4b06bc76-384e-c425-3e71-3460df081d49",
+        "Ischemic Heart Disease"
+      ],
+      [
+        "Otitis media (disorder)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Prediabetes"
+      ],
+      [
+        "Limited Social Contact",
+        "http://snomed.info/sct"
+      ],
+      [
+        "2016-02-19",
+        "Acute Bronchitis"
+      ],
+      [
+        "Social isolation (finding)",
+        "f58c74fd-461d-4ebc-481c-7b662e9a48b6"
+      ],
+      [
+        "Medication Review Due",
+        "Person 1deb8fda-ef6d-9a7d-5994-096d23dfeff9"
+      ],
+      [
+        "Person 38790b18-1646-9c2d-1ca9-fe639a0bc2f9",
+        "Social Isolation"
+      ],
+      [
+        "d07a59f6-1688-5dd4-b68d-63a2d6a1c7d0",
+        "http://snomed.info/sct"
+      ],
+      [
+        "54d174cc-0236-0c47-c1e8-687c51c73786",
+        "Stress"
+      ],
+      [
+        "Gingivitis",
+        "Snomed"
+      ],
+      [
+        "Sterilization requested (situation)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Chronic pain (finding)",
+        "Snomed.info/sct"
+      ],
+      [
+        "1959-01-27",
+        "Full-time employment (finding)"
+      ],
+      [
+        "Chronic sinusitis (disorder)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "0f355ef2-4a82-da21-d89d-0f73ec3d5c06",
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3"
+      ],
+      [
+        "Acute ST segment elevation myocardial infarction",
+        "History of myocardial infarction"
+      ],
+      [
+        "Injury of neck (disorder)",
+        "SNOMED Clinical Terms (SNOMED CT)"
+      ],
+      [
+        "23479019-fd1e-2b8b-c892-7be8d51849d4",
+        "Snomed.info/sct"
+      ],
+      [
+        "2009-04-28",
+        "6a9e450a-291e-d798-1bf3-f0204bc69338"
+      ],
+      [
+        "Headache",
+        "dfa014f4-cbd0-8d37-7134-1fcbc1010c96"
+      ],
+      [
+        "Diabetes mellitus type 2",
+        "http://snomed.info/sct"
+      ],
+      [
+        "1986-12-25",
+        "Abnormal findings diagnostic imaging heart+coronary circulat"
+      ],
+      [
+        "87f4c224-97db-ebce-0a90-150370d2b56b",
+        "98076466-8698-4c2d-2264-5a488076830e"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "Full-time employment"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "Past pregnancy history of miscarriage (situation)"
+      ],
+      [
+        "Medication review due (situation)",
+        "Snomed"
+      ],
+      [
+        "1994-05-13",
+        "http://snomed.info/sct,6525002"
+      ],
+      [
+        "Limited social contact (finding)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "23479019-fd1e-2b8b-c892-7be8d51849d4",
+        "2ba8e7c3-6a56-6482-92a7-490b527b833a"
+      ],
+      [
+        "Dependent Drug Abuse",
+        "Overdose"
+      ],
+      [
+        "2016-05-27",
+        "event"
+      ],
+      [
+        "1961-10-17",
+        "Normal pregnancy (finding)"
+      ],
+      [
+        "1b49bbec-b410-9639-f5e9-9683773c6886",
+        "Viral sinusitis (disorder)"
+      ],
+      [
+        "3f1e56c4-f233-7a1b-c616-7aec79d7fad1",
+        "dfa014f4-cbd0-8d37-7134-1fcbc1010c96"
+      ],
+      [
+        "Dental Filling Lost",
+        "cd6ad38d-42a4-4548-c5b2-ac886fb55b3a"
+      ],
+      [
+        "Full-time employment",
+        "Not in labor force"
+      ],
+      [
+        "Hyperglycemia",
+        "Snomed"
+      ],
+      [
+        "Acute viral pharyngitis (disorder)",
+        "Snomed"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "Chronic pain"
+      ],
+      [
+        "2011-04-30",
+        "Diabetes Mellitus Type 2"
+      ],
+      [
+        "Gingivitis",
+        "c51daa65-44d9-c3cd-cc07-0fa896ee1e7d"
+      ],
+      [
+        "422650009",
+        "f-942b-6f71-47cd-496fec5bec4f"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "Fracture of clavicle"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "54c3b4be-801e-ce09-d63c-06edb8b77299"
+      ],
+      [
+        "1964-06-09",
+        "Normal pregnancy (finding)"
+      ],
+      [
+        "1953-02-10",
+        "Transport Problem"
+      ],
+      [
+        "1990-01-17",
+        "Body mass index 30+ - obesity"
+      ],
+      [
+        "Full-time employment",
+        "snomed.info/sct"
+      ],
+      [
+        "Person 10b577c3-b668-2306-08db-d603cb3cb6d2",
+        "Stress"
+      ],
+      [
+        "SNOMED",
+        "Social isolation"
+      ],
+      [
+        "Snomed.info/sct",
+        "Viral sinusitis"
+      ],
+      [
+        "Sprain",
+        "Sprain of ankle"
+      ],
+      [
+        "13cc8905-da84-e2ca-b8a9-98c0a3eadb03",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "Loss of taste",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Diabetes Mellitus Type 2",
+        "Snomed"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "87786eb9-0121-d472-ee75-3e19ccca881f"
+      ],
+      [
+        "Full-Time Employment",
+        "Part-Time Employment"
+      ],
+      [
+        "Abnormal findings diagnostic imaging heart+coronary circulat (finding)",
+        "Snomed.info/sct"
+      ],
+      [
+        "Primary Dental Caries",
+        "http://snomed.info/sct"
+      ],
+      [
+        "7bec276f-b5e8-2109-f5a1-a6bab303e78c",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "Medication review due (situation)",
+        "ee7347d5-eaa3-9fa7-d3e8-f797efeeab45"
+      ],
+      [
+        "Miscarriage in first trimester",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Part-time employment",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Body mass index 30+ - obesity (finding)",
+        "Full-time employment (finding)"
+      ],
+      [
+        "2014-02-02",
+        "Chronic Neck Pain"
+      ],
+      [
+        "3168a1be-9de6-09ec-73b7-3cf026f9eea3",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "Stress",
+        "http://snomed.info/sct"
+      ],
+      [
+        "373cfeb1-48ae-8f57-e06a-92807f6ee9a5",
+        "d6ddd422-c38a-5ca3-a77e-2dbd63a00113"
+      ],
+      [
+        "Acute viral pharyngitis",
+        "dea46849-1274-42ff-a69b-96a26fa3a2c0"
+      ],
+      [
+        "23479019-fd1e-2b8b-c892-7be8d51849d4",
+        "Person IDs (d52d613b-2aad-9d6b-f52e-057904e35fff, 7e4d7cec-82b6-57b6-fd4b-0634cdd8be7b, 0a01cb61-33e8-09b5-f315-672a15f0f756, 397df2fb-12f5-eb2a-eb83-9457d484c85f, 1a7af907-f1ed-6b7c-5936-e58cf380e7d8, 6b535615-f321-1581-15eb-adeb2c70a313, cc03161b-667f-1241-a572-8758c5293613, 5ef0bb24-a171-1be7-c83a-f4075b4de74a, 9421bf2d-c927-b544-f43a-a792a49ab4b5, dda91f00-4961-2a7a-62a7-36dc181b9c03)"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "Part-time Employment"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Hyperglycemia"
+      ],
+      [
+        "41771dd4-24d0-0fd3-cb11-d96407742ce0",
+        "Medication review due (situation)"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "a1956853-70fe-ea72-4a5e-55f9d090d96c"
+      ],
+      [
+        "3db72edf-2651-4d89-8386-92435a357276",
+        "Acute viral pharyngitis (disorder)"
+      ],
+      [
+        "1030583e-f2ca-be06-8552-88048690a88b",
+        "Full-time employment (finding)"
+      ],
+      [
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c",
+        "http://snomed.info/sct"
+      ],
+      [
+        "60573004",
+        "Aortic valve stenosis"
+      ],
+      [
+        "Chronic Obstructive Bronchitis",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Full-time employment",
+        "SNOMED"
+      ],
+      [
+        "Event 2025-08-27",
+        "Gingivitis"
+      ],
+      [
+        "0515765a-5729-2a38-ad6c-0eaddf26577e",
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df"
+      ],
+      [
+        "History of coronary artery bypass grafting",
+        "History of myocardial infarction"
+      ],
+      [
+        "Ischemic Heart Disease (disorder)",
+        "Medication Review Due (situation)"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Not in labor force"
+      ],
+      [
+        "Limited Social Contact",
+        "Stress"
+      ],
+      [
+        "Gingival Disease",
+        "Person 58988810-805f-fcc1-0d46-689772c68b3e"
+      ],
+      [
+        "2015-10-17 to 2017-10-21",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "Event 2025-03-12",
+        "Stress"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Metabolic Syndrome X"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Sprain of ankle"
+      ],
+      [
+        "4235b737-ae54-8741-3d64-7776a72d343b",
+        "dfa014f4-cbd0-8d37-7134-1fcbc1010c96"
+      ],
+      [
+        "1261956d-8b51-1535-433b-06a296fcc326",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "Snomed CT",
+        "Sprain of ankle"
+      ],
+      [
+        "Alveolitis of Jaw",
+        "Snomed"
+      ],
+      [
+        "9c5bc49b-66d7-c2ba-d128-4bad38b6f266",
+        "Idiopathic Atrophic Hypothyroidism"
+      ],
+      [
+        "Reports of Violence in the Environment",
+        "SNOMED CT"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "Part-time employment"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Limited Social Contact"
+      ],
+      [
+        "Chronic Neck Pain",
+        "Person 10b577c3-b668-2306-08db-d603cb3cb6d2"
+      ],
+      [
+        "Metabolic syndrome X",
+        "b2ff4395-71ac-b7b4-bdbe-174db000eea8"
+      ],
+      [
+        "2018-06-23",
+        "Gingival disease (disorder)"
+      ],
+      [
+        "10b577c3-b668-2306-08db-d603cb3cb6d2",
+        "35683388-2f6a-b388-be8e-6fe188d128b8"
+      ],
+      [
+        "Otitis media (disorder)",
+        "Snomed"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "http://snomed.info/sct"
+      ],
+      [
+        "87f4c224-97db-ebce-0a90-150370d2b56b",
+        "9500638b-57d8-8b8f-c87e-961e7dabac25"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "beae04f6-5be1-fc6e-5b08-c2a2cdd9c83f"
+      ],
+      [
+        "Part-time employment",
+        "e62a602a-0d89-84de-8ca7-46e2fd95253c"
+      ],
+      [
+        "004e8cce-7045-8cbe-9fe0-1df5305b2003",
+        "Dfa014f4-cbd0-8d37-7134-1fcbc1010c96"
+      ],
+      [
+        "54d174cc-0236-0c47-c1e8-687c51c73786",
+        "Ischemic Heart Disease"
+      ],
+      [
+        "Stress",
+        "e62a602a-0d89-84de-8ca7-46e2fd95253c"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "e62a602a-0d89-84de-8ca7-46e2fd95253c"
+      ],
+      [
+        "2016-02-26",
+        "Medication Review Due"
+      ],
+      [
+        "Social isolation",
+        "sct"
+      ],
+      [
+        "53aa3ee8-04fa-4108-aabc-72a3b1ee31a8",
+        "Anemia"
+      ],
+      [
+        "23479019-fd1e-2b8b-c892-7be8d51849d4",
+        "Educated to High School Level"
+      ],
+      [
+        "2023-05-06",
+        "Overdose"
+      ],
+      [
+        "2002-02-04",
+        "2a87c3cb-2b8c-1eb5-6478-7a0a6bd58be5"
+      ],
+      [
+        "SNOMED Clinical Terms (SNOMED CT)",
+        "Stress (finding)"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "dcc2b5cb-8a92-eb25-a26e-8f369d981786"
+      ],
+      [
+        "Overdose (disorder)",
+        "SNOMED Clinical Terms (SNOMED CT)"
+      ],
+      [
+        "2014-02-02",
+        "Chronic Pain"
+      ],
+      [
+        "Prediabetes",
+        "Snomed"
+      ],
+      [
+        "5109d6d8-6740-c310-b2f7-144f49050661",
+        "d6ddd422-c38a-5ca3-a77e-2dbd63a00113"
+      ],
+      [
+        "5f0132db-d256-27a3-24be-32bcc209452a",
+        "Ischemic heart disease"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "b5fe3927-24ad-4295-0ef8-ad35314e1ee0"
+      ],
+      [
+        "86ed1d81-51dc-b49b-8735-4a7accc8fa49",
+        "Anemia"
+      ],
+      [
+        "Snomed.info/sct",
+        "Stress"
+      ],
+      [
+        "Primary dental caries",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Normal pregnancy",
+        "dfa014f4-cbd0-8d37-7134-1fcbc1010c96"
+      ],
+      [
+        "bb495980-b90e-9ba9-339e-dff23519878d",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "2023-12-20",
+        "Medication Review Due"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "e4ea7db2-2594-037e-8d71-c7ca46ba34c9"
+      ],
+      [
+        "Primary Dental Caries",
+        "Snomed Clinical Terms"
+      ],
+      [
+        "Gingival disease",
+        "http://snomed.info/sct"
+      ],
+      [
+        "1603f9c6-c49e-358f-cc1c-4c92c7924dbd",
+        "b1c881bc-3ecb-5138-1a3c-d24e93fcb8fa"
+      ],
+      [
+        "1991-03-22",
+        "Impacted molars (disorder)"
+      ],
+      [
+        "Received higher education (finding)",
+        "a5796491-7f36-1d4b-32b6-41daf4a3b317"
+      ],
+      [
+        "725c827a-71ca-b2ee-a13e-369f920bde73",
+        "Full-time employment"
+      ],
+      [
+        "4ba79afa-4dfa-07b3-8115-5854190d1ce6",
+        "d6ddd422-c38a-5ca3-a77e-2dbd63a00113"
+      ],
+      [
+        "233c8fad-27aa-c9f5-108c-9d531689442c",
+        "cd6ad38d-42a4-4548-c5b2-ac886fb55b3a"
+      ],
+      [
+        "Acute cholecystitis",
+        "http://snomed.info/sct"
+      ],
+      [
+        "68f11d81-7672-52e1-e3ba-695bcea34754",
+        "Reports of violence in the environment"
+      ],
+      [
+        "Medication review due",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Part-time employment (finding)",
+        "Viral sinusitis (disorder)"
+      ],
+      [
+        "1988-02-16",
+        "Osteoporosis (disorder)"
+      ],
+      [
+        "1fdae5e5-b8bd-cec0-9714-23fcc5476ca9",
+        "History of tubal ligation (situation)"
+      ],
+      [
+        "2025-07-30",
+        "Limited social contact (finding)"
+      ],
+      [
+        "Part-time employment",
+        "Stress"
+      ],
+      [
+        "51ad6b71-5cc2-4283-3c09-a2f646c6b945",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "Snomed",
+        "Social isolation"
+      ],
+      [
+        "Part-time Employment",
+        "http://snomed.info/sct"
+      ],
+      [
+        "1963-08-18",
+        "Acute infective cystitis (disorder)"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "95f4ffeb-545f-6bd1-7ca4-14e95f421c86"
+      ],
+      [
+        "2021-01-03",
+        "Acute Viral Pharyngitis"
+      ],
+      [
+        "a8502f22-4e7e-6ca8-fdc2-d4bfc19d0011",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "ada17cf2-69a5-509f-3095-587600b19a09"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Acute Viral Pharyngitis"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "Stress"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "d7aa0061-15d2-9f8d-4321-760fccc777cf"
+      ],
+      [
+        "58988810-805f-fcc1-0d46-689772c68b3e",
+        "dafa9039-1ce9-fb48-37ef-9d56bd1d1ab3"
+      ],
+      [
+        "Sprain",
+        "Sprain of wrist"
+      ],
+      [
+        "41771dd4-24d0-0fd3-cb11-d96407742ce0",
+        "Gingivitis (disorder)"
+      ],
+      [
+        "Reports of Violence in the Environment (finding)",
+        "Victim of Intimate Partner Abuse (finding)"
+      ],
+      [
+        "Streptococcal Sore Throat",
+        "http://snomed.info/sct"
+      ],
+      [
+        "27d7252d-35c9-e84d-dde4-4a6b32d9dba2",
+        "Medication review due"
+      ],
+      [
+        "Full-time Employment",
+        "http://snomed.info/sct"
+      ],
+      [
+        "87f4c224-97db-ebce-0a90-150370d2b56b",
+        "dea46849-1274-42ff-a69b-96a26fa3a2c0"
+      ],
+      [
+        "2020-10-17",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "Part-time employment",
+        "Snomed"
+      ],
+      [
+        "5a235a9a-8fb0-a184-335f-28d0cc0cbd8c",
+        "87f4c224-97db-ebce-0a90-150370d2b56b"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Gingivitis"
+      ],
+      [
+        "10b577c3-b668-2306-08db-d603cb3cb6d2",
+        "Full-Time Employment"
+      ],
+      [
+        "160903007",
+        "Full-time employment"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Impacted molars (disorder)"
+      ],
+      [
+        "87f4c224-97db-ebce-0a90-150370d2b56b",
+        "d2b24103-1e23-4876-5e30-17bbc4e26201"
+      ],
+      [
+        "Medication Review Due",
+        "Not in Labor Force"
+      ],
+      [
+        "66f61420-4266-cd23-6d4e-1c7905e0977f",
+        "741062008"
+      ],
+      [
+        "2014-02-02",
+        "Chronic Low Back Pain"
+      ],
+      [
+        "0efe299a-fe85-f781-3cc5-8037fb4bfc52",
+        "Medication review due (situation)"
+      ],
+      [
+        "Full-time employment",
+        "Normal pregnancy"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "fab031a3-aec8-a1f7-5bf5-1d04ea219d99"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "8389cf90-a344-7dba-5176-61"
+      ],
+      [
+        "3590cb0d-1791-e563-42ab-7237059122d2",
+        "Acute viral pharyngitis (disorder)"
+      ],
+      [
+        "0e949956-0984-b56b-187e-42faa8722c52",
+        "Medication review due (situation)"
+      ],
+      [
+        "Chronic kidney disease stage 1",
+        "Unemployed"
+      ],
+      [
+        "2017-10-21",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Ischemic heart disease (disorder)"
+      ],
+      [
+        "97aaba43-4c3e-8813-4d90-52330790ac40",
+        "cd6ad38d-42a4-4548-c5b2-ac886fb55b3a"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Stress"
+      ],
+      [
+        "Medication review due",
+        "e62a602a-0d89-84de-8ca7-46e2fd95253c"
+      ],
+      [
+        "History of appendectomy",
+        "snomed.info/sct"
+      ],
+      [
+        "Full-Time Employment",
+        "Medication Review Due"
+      ],
+      [
+        "Chronic kidney disease stage 3",
+        "Proteinuria due to type 2 diabetes mellitus"
+      ],
+      [
+        "Person 10b577c3-b668-2306-08db-d603cb3cb6d2",
+        "Received Higher Education"
+      ],
+      [
+        "2015-06-02",
+        "6a9e450a-291e-d798-1bf3-f0204bc69338"
+      ],
+      [
+        "Stress (finding)",
+        "d61402ff-6883-0606-be5d-8792f17271c2"
+      ],
+      [
+        "Reports of",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Suspected disease caused by Severe acute respiratory coronavirus 2",
+        "dfa014f4-cbd0-8d37-7134-1fcbc1010c96"
+      ],
+      [
+        "6b18048e-b158-eb07-e4f0-0fb7422a3517",
+        "Limited social contact (finding)"
+      ],
+      [
+        "214c82ed-3f12-69d3-2928-d152d0a20e18",
+        "History of Tubal Ligation"
+      ],
+      [
+        "54d174cc-0236-0c47-c1e8-687c51c73786",
+        "History of Coronary Artery Bypass Grafting"
+      ],
+      [
+        "Hyperlipidemia",
+        "http://snomed.info/sct"
+      ],
+      [
+        "2017-11-15",
+        "Stress"
+      ],
+      [
+        "Risk activity involvement",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Gingivitis (disorder)",
+        "Primary Dental Caries (disorder)"
+      ],
+      [
+        "Not in Labor Force",
+        "http://snomed.info/sct"
+      ],
+      [
+        "1603f9c6-c49e-358f-cc1c-4c92c7924dbd",
+        "966d1ef0-b645-2675-cafb-162a60ebff72"
+      ],
+      [
+        "Medication review due (situation)",
+        "d8d05b73-99f3-bced-0508-e61c9317112c"
+      ],
+      [
+        "Gingival disease",
+        "Gingivitis"
+      ],
+      [
+        "2013-06-04",
+        "7b03cc63-6c2d-b65b-aaa9-3e49bfda0815"
+      ],
+      [
+        "Medication review due (situation)",
+        "ff27db4d-6c77-8451-d768-937704bbd3df"
+      ],
+      [
+        "Myocardial Infarction",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Refugee (person)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "2016-02-26",
+        "Hyperglycemia"
+      ],
+      [
+        "Overdose (disorder)",
+        "b53337fd-7d99-a2df-6ed5-7d7f6596af8e"
+      ],
+      [
+        "2017-06-13",
+        "Stress"
+      ],
+      [
+        "09fabb34-3841-44e8-7488-916fe210086c",
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df"
+      ],
+      [
+        "Acute Viral Pharyngitis",
+        "Snomed"
+      ],
+      [
+        "1603f9c6-c49e-358f-cc1c-4c92c7924dbd",
+        "9fb95994-1ade-0444-fe7f-5dba4566202b"
+      ],
+      [
+        "58988810-805f-fcc1-0d46-689772c68b3e",
+        "6b18048e-b158-eb07-e4f0-0fb7422a3517"
+      ],
+      [
+        "Full-time employment",
+        "sct"
+      ],
+      [
+        "Injury of tendon of the rotator cuff of shoulder (disorder)",
+        "Snomed.info/sct"
+      ],
+      [
+        "Dependent Drug Abuse",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Snomed.info/sct",
+        "Social isolation"
+      ],
+      [
+        "2005-12-14",
+        "6a9e450a-291e-d798-1bf3-f0204bc69338"
+      ],
+      [
+        "Full-time employment",
+        "Snomed"
+      ],
+      [
+        "1fcebf9f-6afc-46de-92a8-cc1618321fa7",
+        "Acute viral pharyngitis (disorder)"
+      ],
+      [
+        "Misuses drugs",
+        "Stress"
+      ],
+      [
+        "44901b94-6dfe-c594-d93c-c5fe4faf04b2",
+        "Full-time employment (finding)"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Fracture of bone"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "55ccf7e9-105d-c260-0132-6d6061cec8bd"
+      ],
+      [
+        "Past pregnancy history of miscarriage",
+        "http://snomed.info/sct"
+      ],
+      [
+        "078f6fa4-5321-96c7-b47c-bca4fa6e75b8",
+        "Social isolation"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Victim of intimate partner abuse"
+      ],
+      [
+        "Fracture of Bone",
+        "Snomed"
+      ],
+      [
+        "Infectious mediastinitis (disorder)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "0d639fc8-7353-7dd5-39d9-eb3434e4015f",
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3"
+      ],
+      [
+        "Part-time Employment",
+        "Snomed Clinical Terms"
+      ],
+      [
+        "Fracture of clavicle",
+        "http://snomed.info/sct"
+      ],
+      [
+        "1603f9c6-c49e-358f-cc1c-4c92c7924dbd",
+        "19c1187d-17a4-55d3-0759-a59a2f9de9ef"
+      ],
+      [
+        "9827a06a-dd98-e0a2-f656-d343eb47eb4b",
+        "Streptococcal sore throat (disorder)"
+      ],
+      [
+        "Normal pregnancy (finding)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Prediabetes",
+        "e786438c-7404-b8b2-59aa-ba6e7d9fb6f6"
+      ],
+      [
+        "2025-04-30",
+        "Medication review due (situation)"
+      ],
+      [
+        "Full-Time Employment",
+        "cd6ad38d-42a4-4548-c5b2-ac886fb55b3a"
+      ],
+      [
+        "30a56ab0-01ba-1080-20eb-4172df32cbac",
+        "Acute infective cystitis (disorder)"
+      ],
+      [
+        "Primary Dental Caries (disorder)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "004e8cce-7045-8cbe-9fe0-1df5305b2003",
+        "Part-time Employment"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "Full-time employment (finding)"
+      ],
+      [
+        "Full-time Employment",
+        "Snomed Clinical Terms"
+      ],
+      [
+        "Unemployed (finding)",
+        "ee7347d5-eaa3-9fa7-d3e8-f797efeeab45"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Acute Bronchitis"
+      ],
+      [
+        "639b4a9a-b0e3-282e-cdfc-254149619a39",
+        "cd6ad38d-42a4-4548-c5b2-ac886fb55b3a"
+      ],
+      [
+        "Chronic pain (finding)",
+        "Chronic paralysis due to lesion of spinal cord (disorder)"
+      ],
+      [
+        "5d92c2fa-88b5-eba7-a0ad-646cf0d3a630",
+        "d6ddd422-c38a-5ca3-a77e-2dbd63a00113"
+      ],
+      [
+        "3590cb0d-1791-e563-42ab-7237059122d2",
+        "Streptococcal sore throat (disorder)"
+      ],
+      [
+        "Full-time Employment",
+        "Stress"
+      ],
+      [
+        "30a56ab0-01ba-1080-20eb-4172df32cbac",
+        "Medication review due (situation)"
+      ],
+      [
+        "1990-07-26",
+        "2b5571bf-0b94-3a2f-6159-d2ef65e6bea5"
+      ],
+      [
+        "Unemployed",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "Event 2025-08-27 to 2025-09-10",
+        "Gingivitis"
+      ],
+      [
+        "23479019-fd1e-2b8b-c892-7be8d51849d4",
+        "Anemia"
+      ],
+      [
+        "Full-time employment (finding)",
+        "Part-time employment (finding)"
+      ],
+      [
+        "1990-09-08",
+        "d75d1d76-9118-0df5-6c76-a2710329997d"
+      ],
+      [
+        "1970-10-11",
+        "1970-10-20"
+      ],
+      [
+        "Gingivitis",
+        "Medication Review Due"
+      ],
+      [
+        "22e33cad-7f1c-5c15-7e98-cac7ec244e51",
+        "Medication review due (situation)"
+      ],
+      [
+        "9f72c89e-7735-7ddc-91b7-dc979d54c6e8",
+        "Refugee"
+      ],
+      [
+        "67903f86-53b8-cc86-94c0-254dab6ee188",
+        "Reports of violence in the environment"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "Osteoporosis"
+      ],
+      [
+        "23479019-fd1e-2b8b-c892-7be8d51849d4",
+        "Social Isolation"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "f51b888b-a123-96d7-c7a0-0ace1ff87fcf"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "38466e0f-942b-6f71-47cd-496fec5bec4f"
+      ],
+      [
+        "2016-02-27",
+        "Gingivitis"
+      ],
+      [
+        "Viral sinusitis (disorder)",
+        "d02ad5fd-641b-f4df-7261-9035eae6590a"
+      ],
+      [
+        "Past Pregnancy History of Miscarriage",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Viral Sinusitis",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "1985-01-27",
+        "Ischemic heart disease (disorder)"
+      ],
+      [
+        "Has a criminal record",
+        "http://snomed.info/sct"
+      ],
+      [
+        "54d174cc-0236-0c47-c1e8-687c51c73786",
+        "Medication Review Due"
+      ],
+      [
+        "1739419d-98e4-5f73-8b83-aa414dcf46a3",
+        "99f64392-df58-94dc-4c67-d8a38aa37fda"
+      ],
+      [
+        "41771dd4-24d0-0fd3-cb11-d96407742ce0",
+        "64a545ca-24c7-b618-4092-528b561ca167"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Anemia"
+      ],
+      [
+        "2021-10-09",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "Otitis media",
+        "http://snomed.info/sct"
+      ],
+      [
+        "225d4fa0-5f7d-f0ab-53a9-3d3aaae3182d",
+        "Medication Review Due"
+      ],
+      [
+        "373d9c73-c735-c22f-6e83-8277bf05fe91",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "Gingivitis (disorder)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Victim of intimate partner abuse (finding)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "7ac83030-9469-2ae3-ff3b-b5c1071a1527",
+        "Viral sinusitis"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "78b39982-eeb9-65ad-b32d-733bfb54a3bb"
+      ],
+      [
+        "2022-10-15",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Risk activity involvement"
+      ],
+      [
+        "2013-10-12 to 2023-10-21",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "Refugee",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Not in labor force",
+        "snomed.info/sct"
+      ],
+      [
+        "87f4c224-97db-ebce-0a90-150370d2b56b",
+        "Unemployed"
+      ],
+      [
+        "Stress (finding)",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "2a87c3cb-2b8c-1eb5-6478-7a0a6bd58be5",
+        "e82e71a9-ae90-3430-66a5-7fac9066cd4c"
+      ],
+      [
+        "64859006",
+        "d0b2e8e2-b6aa-29f8-7553-1356b1f643b3"
+      ],
+      [
+        "49a730f5-9ec6-1cbd-dce4-63af25785bb8",
+        "http://snomed.info/sct"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "34e5bce4-028e-47e9-115e-a025be0ad491"
+      ],
+      [
+        "65ed9698-618a-3ae0-3f86-4cc257fa9e5a",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "c591da93-c439-2c8d-380d-b917885a5f28",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "2017-06-13",
+        "2018-06-19"
+      ],
+      [
+        "Abnormal findings diagnostic imaging heart+coronary circulat",
+        "Ischemic heart disease"
+      ],
+      [
+        "Perennial allergic rhinitis with seasonal variation",
+        "http://snomed.info/sct"
+      ],
+      [
+        "19c1187d-17a4-55d3-0759-a59a2f9de9ef",
+        "Stress (finding)"
+      ],
+      [
+        "8b68bd26-5b72-76ba-2666-935a7026b446",
+        "Medication review due (situation)"
+      ],
+      [
+        "Osteoporosis (disorder)",
+        "Snomed.info/sct"
+      ],
+      [
+        "Received higher education (finding)",
+        "d6ddd422-c38a-5ca3-a77e-2dbd63a00113"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "Primary dental caries"
+      ],
+      [
+        "category entities",
+        "http://snomed.info/sct"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Idiopathic Atrophic Hypothyroidism"
+      ],
+      [
+        "271737000",
+        "Anemia"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "4cd36680-61bc-e299-6f93-33a39b7e4118"
+      ],
+      [
+        "2005-10-30",
+        "6a9e450a-291e-d798-1bf3-f0204bc69338"
+      ],
+      [
+        "Received higher education",
+        "Snomed.info/sct"
+      ],
+      [
+        "Gingival disease (disorder)",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "History of tubal ligation",
+        "http://snomed.info/sct"
+      ],
+      [
+        "10b577c3-b668-2306-08db-d603cb3cb6d2",
+        "81e7bc86-5d19-5dce-9bc2-e584e59033ad"
+      ],
+      [
+        "1603f9c6-c49e-358f-cc1c-4c92c7924dbd",
+        "912f02fe-bbdc-9267-ee68-9e297f715f6a"
+      ],
+      [
+        "0ba9213f-5aa7-e1d0-40c8-aa517b289638",
+        "2020-03-31"
+      ],
+      [
+        "30005dc7-deca-6c03-1951-8a4cce87df03",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "2007-11-21",
+        "Full-time employment"
+      ],
+      [
+        "Full-Time Employment",
+        "http://snomed.info/sct"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "64b61674-6ee4-61a2-e6d8-8ad4dac4812a"
+      ],
+      [
+        "2016-02-26",
+        "Stress"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "Not in labor force"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Nonproliferative Diabetic Retinopathy Due to Type 2 Diabetes Mellitus"
+      ],
+      [
+        "2e4f0fee-4d32-24b6-44aa-e920e887c5d3",
+        "Risk activity involvement"
+      ],
+      [
+        "Risk activity involvement (finding)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "41771dd4-24d0-0fd3-cb11-d96407742ce0",
+        "Otitis media (disorder)"
+      ],
+      [
+        "7b72da6f-3e0e-3087-7bf5-9a62fa59e1c5",
+        "Rupture of appendix (disorder)"
+      ],
+      [
+        "Social isolation",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "239872002",
+        "Osteoarthritis of hip"
+      ],
+      [
+        "8b1abedc-506d-1733-daba-9e7d92328378",
+        "Aortic valve stenosis"
+      ],
+      [
+        "Overdose (disorder)",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "Social isolation"
+      ],
+      [
+        "Appendicitis (disorder)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Not In Labor Force"
+      ],
+      [
+        "Prediabetes",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "Full-time employment (finding)",
+        "e3ccd2d0-00dd-de1f-4535-8015b58f32aa"
+      ],
+      [
+        "86ed1d81-51dc-b49b-8735-4a7accc8fa49",
+        "Prediabetes"
+      ],
+      [
+        "Disease caused by severe acute respiratory syndrome coronavirus 2",
+        "dfa014f4-cbd0-8d37-7134-1fcbc1010c96"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "2e4f0fee-4d"
+      ],
+      [
+        "Anemia",
+        "Body mass index 30+ - obesity"
+      ],
+      [
+        "Medication Review Due",
+        "Part-time Employment"
+      ],
+      [
+        "10b577c3-b668-2306-08db-d603cb3cb6d2",
+        "dacfcf8b-d863-cddd-bcf6-13e1ca0decd9"
+      ],
+      [
+        "Event 1999-11-09",
+        "Received Higher Education"
+      ],
+      [
+        "06a2ece1-2a0d-4aa7-2127-c04a45aebb1c",
+        "Stress"
+      ],
+      [
+        "Ischemic heart disease (disorder)",
+        "Snomed.info/sct"
+      ],
+      [
+        "Chronic Neck Pain",
+        "Event 2014-02-06"
+      ],
+      [
+        "Not in labor force",
+        "http://snomed.info/sct"
+      ],
+      [
+        "2014-02-01",
+        "a57360f0-88a2-7934-d44d-52a373b20922"
+      ],
+      [
+        "Transport Problem",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "Part-time employment (finding)",
+        "f26a831d-c3b3-5ed0-09e3-d63cb15aa47f"
+      ],
+      [
+        "Medication Review Due (situation)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Ischemic Heart Disease"
+      ],
+      [
+        "Educated to High School Level",
+        "http://snomed.info/sct"
+      ],
+      [
+        "1739419d-98e4-5f73-8b83-aa414dcf46a3",
+        "Medication review due (situation)"
+      ],
+      [
+        "09417b12-db09-4da8-a768-736e3d08843f",
+        "Ischemic heart disease"
+      ],
+      [
+        "Body Mass Index 30+ - Obesity",
+        "http://snomed.info/sct"
+      ],
+      [
+        "6a9e450a-291e-d798-1bf3-f0204bc69338",
+        "Past pregnancy history of miscarriage"
+      ],
+      [
+        "Acute bronchitis",
+        "ef91beb9-55f2-179d-fa4c-f40a32930619"
+      ],
+      [
+        "Received higher education",
+        "snomed.info/sct"
+      ],
+      [
+        "Fever",
+        "dfa014f4-cbd0-8d37-7134-1fcbc1010c96"
+      ],
+      [
+        "2012-05-04",
+        "Hypertriglyceridemia"
+      ],
+      [
+        "8545110f-5503-16aa-02e6-4dddd18af290",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "Stress",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "0e949956-0984-b56b-187e-42faa8722c52",
+        "1739419d-98e4-5f73-8b83-aa414dcf46a3"
+      ],
+      [
+        "2011-10-08 to 2015-10-17",
+        "bde2ca77-02c6-1577-a8ca-6a3b02cabbd8"
+      ],
+      [
+        "Gingivitis",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Full-Time Employment",
+        "Gingivitis"
+      ],
+      [
+        "1985-02-03",
+        "Abnormal findings diagnostic imaging heart+coronary circulat (finding)"
+      ],
+      [
+        "724a845f-1e8a-c35d-0d07-72d07dd5680f",
+        "Part-time employment"
+      ],
+      [
+        "Overdose",
+        "snomed.info/sct"
+      ],
+      [
+        "2016-03-17",
+        "Alveolitis of Jaw"
+      ],
+      [
+        "2001-08-05",
+        "Aortic valve stenosis"
+      ],
+      [
+        "Alveolitis of jaw",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Criminal Record",
+        "http://snomed.info/sct"
+      ],
+      [
+        "54d174cc-0236-0c47-c1e8-687c51c73786",
+        "http://snomed.info/sct"
+      ],
+      [
+        "54d174cc-0236-0c47-c1e8-687c51c73786",
+        "Viral Sinusitis"
+      ],
+      [
+        "2020-10-16",
+        "Full-Time Employment"
+      ],
+      [
+        "225d4fa0-5f7d-f0ab-53a9-3d3aaae3182d",
+        "Limited Social Contact"
+      ],
+      [
+        "Reports of violence in the environment (finding)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "41771dd4-24d0-0fd3-cb11-d96407742ce0",
+        "Gingival disease (disorder)"
+      ],
+      [
+        "History of seizure (situation)",
+        "Seizure disorder (disorder)"
+      ],
+      [
+        "Diabetes Mellitus Type 2",
+        "Hyperglycemia"
+      ],
+      [
+        "2009-05-08",
+        "6a9e450a-291e-d798-1bf3-f0204bc69338"
+      ],
+      [
+        "Medication review due (situation)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Ischemic Heart Disease",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Only received primary school education (finding)",
+        "e82e71a9-ae90-3430-66a5-7fac9066cd4c"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Essential hypertension"
+      ],
+      [
+        "Nasal congestion",
+        "dfa014f4-cbd0-8d37-7134-1fcbc1010c96"
+      ],
+      [
+        "58988810-805f-fcc1-0d46-689772c68b3e",
+        "be54bed3-fe5c-44b1-e292-9c397364d0c3"
+      ],
+      [
+        "Acute viral pharyngitis (disorder)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "37171450-65bf-60c0-1bb0-e9393990695f",
+        "Nasal congestion"
+      ],
+      [
+        "815fc002-ba59-2695-c1d3-fc62606a8c11",
+        "d6ddd422-c38a-5ca3-a77e-2dbd63a00113"
+      ],
+      [
+        "Person 1deb8fda-ef6d-9a7d-5994-096d23dfeff9",
+        "Stress"
+      ],
+      [
+        "9328d668-a3cd-7288-b556-07f0ee560a1a",
+        "Gingivitis"
+      ],
+      [
+        "b1ee5904-75f1-5579-ce86-26457d92aaff",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "7e686d14-51d7-9f48-0a18-6be19896c75a",
+        "d6ddd422-c38a-5ca3-a77e-2dbd63a00113"
+      ],
+      [
+        "Full-time employment",
+        "Medication review due"
+      ],
+      [
+        "Chronic kidney disease stage 3",
+        "http://snomed.info/sct"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "aa7277cd-2833-8195-89f0-b7324c880b95"
+      ],
+      [
+        "54d174cc-0236-0c47-c1e8-687c51c73786",
+        "Ischemic heart disease"
+      ],
+      [
+        "1986-12-12",
+        "Metabolic syndrome X"
+      ],
+      [
+        "2025-07-30",
+        "Not in labor force (finding)"
+      ],
+      [
+        "1603f9c6-c49e-358f-cc1c-4c92c7924dbd",
+        "Full-time employment (finding)"
+      ],
+      [
+        "Viral Sinusitis",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Medication Review Due",
+        "http://snomed.info/sct"
+      ],
+      [
+        "Gingivitis",
+        "Primary Dental Caries"
+      ],
+      [
+        "Gingivitis (disorder)",
+        "f9f85516-bb5b-a837-491a-b1939376dca8"
+      ],
+      [
+        "6ca68ff2-9d8a-1094-c25e-fad777773dd9",
+        "e4a973ec-bc18-c303-a8c0-c7525cb29d1c"
+      ],
+      [
+        "Past pregnancy history of miscarriage",
+        "Received higher education"
+      ],
+      [
+        "Chronic Pain",
+        "Person 10b577c3-b668-2306-08db-d603cb3cb6d2"
+      ],
+      [
+        "Not in labor force",
+        "Stress"
+      ],
+      [
+        "2025-03-26",
+        "Gingivitis (disorder)"
+      ],
+      [
+        "History of aortic valve replacement",
+        "ea3a65d7-0771-7fcc-ed2b-eb58bb5413f5"
+      ],
+      [
+        "Fracture of forearm (disorder)",
+        "http://snomed.info/sct"
+      ],
+      [
+        "1603f9c6-c49e-358f-cc1c-4c92c7924dbd",
+        "Received higher education (finding)"
+      ],
+      [
+        "Cough",
+        "http://snomed.info/sct"
+      ],
+      [
+        "1962-01-30",
+        "Medication review due (situation)"
+      ],
+      [
+        "Full-Time Employment",
+        "Person 10b577c3-b668-2306-08db-d603cb3cb6d2"
+      ],
+      [
+        "Acute Viral Pharyngitis",
+        "Person 3d9b0768-bada-1bb4-1106-fc6bae958295"
+      ],
+      [
+        "1b2af590-7fb0-fd2d-0acf-b80f533de3cf",
+        "Only received primary school education (finding)"
+      ],
+      [
+        "11452398-2b11-dbb6-376c-1c718e4611e2",
+        "Fracture of bone"
+      ],
+      [
+        "Medication review due (situation)",
+        "Stress (finding)"
+      ],
+      [
+        "Social isolation (finding)",
+        "dafa9039-1ce9-fb48-37ef-9d56bd1d1ab3"
+      ],
+      [
+        "23479019-fd1e-2b8b-c892-7be8d51849d4",
+        "Prediabetes"
+      ],
+      [
+        "Medication review due",
+        "Snomed CT"
+      ],
+      [
+        "87f4c224-97db-ebce-0a90-150370d2b56b",
+        "Not in labor force"
+      ],
+      [
+        "54d174cc-0236-0c47-c1e8-687c51c73786",
+        "Gingivitis"
+      ],
+      [
+        "Fracture of bone",
+        "http://snomed.info/sct"
+      ],
+      [
+        "414545008",
+        "Ischemic heart disease"
+      ],
+      [
+        "1996-04-02",
+        "Medication review due (situation)"
+      ],
+      [
+        "Gingivitis",
+        "Snomed Clinical Terms"
+      ],
+      [
+        "004e8cce-7045-8cbe-9fe0-1df5305b2003",
+        "7ac83030-9469-2ae3-ff3b-b5c1071a1527"
+      ],
+      [
+        "3728d4dd-e2a1-c75a-c813-f4fc05afb83d",
+        "Medication review due"
+      ],
+      [
+        "3fbc031d-54e6-ce23-2d38-099fc37f63b3",
+        "Medication review due (situation)"
+      ],
+      [
+        "3590cb0d-1791-e563-42ab-7237059122d2",
+        "Primary dental caries (disorder)"
+      ],
+      [
+        "Fracture of bone",
+        "Fracture of forearm"
+      ],
+      [
+        "Has a criminal record (finding)",
+        "Only received primary school education (finding)"
+      ],
+      [
+        "2015-06-02",
+        "Part-time employment"
+      ],
+      [
+        "1603f9c6-c49e-358f-cc1c-4c92c7924dbd",
+        "30a56ab0-01ba-1080-20eb-4172df32cbac"
+      ],
+      [
+        "1d88c2ec-47c1-1fbc-826b-e0bb50ddb4df",
+        "Chronic Neck Pain"
+      ],
+      [
+        "1990-08-07",
+        "Chronic pain (finding)"
+      ],
+      [
+        "004e8cce-7045-8cbe-9fe0-1df5305b2003",
+        "Acute Bronchitis"
+      ],
+      [
+        "37171450-65bf-60c0-1bb0-e9393990695f",
+        "Headache"
+      ],
+      [
+        "58988810-805f-fcc1-0d46-689772c68b3e",
+        "b005c283-43ce-8250-f106-2b8c81a3d9d0"
+      ],
+      [
+        "03c10ebe-f87c-127f-0318-0da5ce059853",
+        "Part-time Employment"
+      ]
+    ],
+    "count": 1437,
+    "create_time": 1759305414,
+    "update_time": 1759305414,
+    "_id": "doc-3012b2083629591b5a20c0d6d9a6d69e"
+  },
+  "doc-6a10f3f0ff3b913a4a81a3edc88d5ef1": {
+    "relation_pairs": [
+      [
+        "Leta Goldner",
+        "Osinski Route"
+      ],
+      [
+        "Bridgewater",
+        "Massachusetts"
+      ],
+      [
+        "Malden",
+        "Marcie Phyliss Rolfson Mueller"
+      ],
+      [
+        "Amherst Center",
+        "Erasmo Lesley Zboncak"
+      ],
+      [
+        "Massachusetts",
+        "Medfield"
+      ],
+      [
+        "Mansfield",
+        "Massachusetts"
+      ],
+      [
+        "Florinda Howe",
+        "Wayland, Massachusetts, US"
+      ],
+      [
+        "Leta Goldner",
+        "white"
+      ],
+      [
+        "Marcie Phyliss Rolfson Mueller",
+        "nonhispanic"
+      ],
+      [
+        "Kelley Mira Hudson Barrows",
+        "white"
+      ],
+      [
+        "Melissia Jacquelynn Kozey Mertz",
+        "Mrs."
+      ],
+      [
+        "Leffler Osinski",
+        "Massachusetts"
+      ],
+      [
+        "Normand Parker",
+        "Saugus, Massachusetts, US"
+      ],
+      [
+        "Loren Effertz",
+        "Mr."
+      ],
+      [
+        "Bristol County",
+        "North Westport"
+      ],
+      [
+        "Erasmo Lesley Zboncak",
+        "black"
+      ],
+      [
+        "Kelley Mira Hudson Barrows",
+        "M"
+      ],
+      [
+        "Dartmouth",
+        "Tod Leannon"
+      ],
+      [
+        "Dulcie148 Valentina258 Haag279",
+        "North Plymouth, Massachusetts, US"
+      ],
+      [
+        "Bobby524 Lloyd546 Botsford977",
+        "Medfield, Massachusetts, US"
+      ],
+      [
+        "Ms.",
+        "Yolanda Granados"
+      ],
+      [
+        "Christie Cormier",
+        "Cormier289"
+      ],
+      [
+        "Normand Parker",
+        "Timothy Parker"
+      ],
+      [
+        "Boston, Massachusetts",
+        "Hayes Flat"
+      ],
+      [
+        "M",
+        "Melissia Jacquelynn Kozey Mertz"
+      ],
+      [
+        "Catrina144 Lashell363 Cartwright189",
+        "Sudbury, Massachusetts, US"
+      ],
+      [
+        "Male",
+        "White"
+      ],
+      [
+        "S99924375",
+        "Scarlett Yost"
+      ],
+      [
+        "Braintree, Massachusetts",
+        "Marinda Leffler"
+      ],
+      [
+        "Erasmo Lesley Zboncak",
+        "M"
+      ],
+      [
+        "Leta Goldner",
+        "Massachusetts"
+      ],
+      [
+        "Kelley Mira Hudson Barrows",
+        "W"
+      ],
+      [
+        "Massachusetts",
+        "Middlesex County"
+      ],
+      [
+        "Isabel María Eugenia Araña Lucero",
+        "hispanic"
+      ],
+      [
+        "Isabel María Eugenia Araña Lucero",
+        "Mrs."
+      ],
+      [
+        "F",
+        "Marinda Leffler"
+      ],
+      [
+        "Leonor133 Claudia969 Arenas932",
+        "Santo Domingo, National District, DO"
+      ],
+      [
+        "F",
+        "Kelley Mira Hudson Barrows"
+      ],
+      [
+        "F",
+        "Scarlett Yost"
+      ],
+      [
+        "Melissia Jacquelynn Kozey Mertz",
+        "nonhispanic"
+      ],
+      [
+        "Fall River",
+        "Massachusetts"
+      ],
+      [
+        "Burlington",
+        "Melissia Jacquelynn Kozey Mertz"
+      ],
+      [
+        "Boston, Massachusetts, Suffolk County, 02467",
+        "Catrina144 Lashell363 Cartwright189"
+      ],
+      [
+        "Burlington, Massachusetts",
+        "Christie Cormier"
+      ],
+      [
+        "Marinda Leffler",
+        "Mrs."
+      ],
+      [
+        "Christie Cormier",
+        "white"
+      ],
+      [
+        "Isabel María Eugenia Araña Lucero",
+        "X81312992X"
+      ],
+      [
+        "Bridgewater, Massachusetts, US",
+        "Leonore418 Jimmie93 Hilpert278"
+      ],
+      [
+        "Isabel María Eugenia Araña Lucero",
+        "Johnson Knoll"
+      ],
+      [
+        "Granados71",
+        "Yolanda Granados"
+      ],
+      [
+        "Marcie Phyliss Rolfson Mueller",
+        "X35041446X"
+      ],
+      [
+        "F",
+        "Leffler Osinski"
+      ],
+      [
+        "Leonor133 Claudia969 Arenas932",
+        "North Westport, Massachusetts, Bristol County, 00000"
+      ],
+      [
+        "Marcie Phyliss Rolfson Mueller",
+        "white"
+      ],
+      [
+        "Burlington, Massachusetts",
+        "Florinda Howe"
+      ],
+      [
+        "Bobby524 Lloyd546 Botsford977",
+        "Pinehurst, Massachusetts, Middlesex County, 01866"
+      ],
+      [
+        "Mrs.",
+        "Scarlett Yost"
+      ],
+      [
+        "Normand Parker",
+        "nonhispanic"
+      ],
+      [
+        "Yolanda Granados",
+        "hispanic"
+      ],
+      [
+        "Lowell",
+        "Massachusetts"
+      ],
+      [
+        "Female",
+        "White"
+      ],
+      [
+        "Christie Cormier",
+        "F"
+      ],
+      [
+        "1042 Runte Meadow",
+        "Runte Meadow"
+      ],
+      [
+        "Middlesex County",
+        "Normand Parker"
+      ],
+      [
+        "Caracas, Capital District, VE",
+        "Emilio417 Emilio417 Montero62"
+      ],
+      [
+        "Quincy, Massachusetts, Norfolk County, 02169",
+        "Yolanda648 Catalina187 Santiago500"
+      ],
+      [
+        "Tod Leannon",
+        "X86510222X"
+      ],
+      [
+        "S99935297",
+        "Tod Leannon"
+      ],
+      [
+        "Nantucket, Massachusetts, Nantucket County, 02554",
+        "Samella245 Leta870 Goldner995"
+      ],
+      [
+        "Burlington, Massachusetts, Middlesex County, 01803",
+        "Leonore418 Jimmie93 Hilpert278"
+      ],
+      [
+        "Marinda Leffler",
+        "nonhispanic"
+      ],
+      [
+        "Charlton, Massachusetts, Worcester County, 00000",
+        "Emilio417 Emilio417 Montero62"
+      ],
+      [
+        "Marcie Phyliss Rolfson Mueller",
+        "Massachusetts"
+      ],
+      [
+        "Leffler Osinski",
+        "W"
+      ],
+      [
+        "Scarlett Yost",
+        "nonhispanic"
+      ],
+      [
+        "Marcie Phyliss Rolfson Mueller",
+        "S99991830"
+      ],
+      [
+        "F",
+        "Isabel María Eugenia Araña Lucero"
+      ],
+      [
+        "Massachusetts",
+        "Pittsfield"
+      ],
+      [
+        "Isabel María Eugenia Araña Lucero",
+        "Panama City"
+      ],
+      [
+        "Charlton",
+        "Worcester County"
+      ],
+      [
+        "Beatty Viaduct",
+        "Braintree, Massachusetts"
+      ],
+      [
+        "Melissia Jacquelynn Kozey Mertz",
+        "white"
+      ],
+      [
+        "Loren Effertz",
+        "black"
+      ],
+      [
+        "Fall River",
+        "Scarlett Yost"
+      ],
+      [
+        "Leta Goldner",
+        "X76451629X"
+      ],
+      [
+        "M",
+        "Tod Leannon"
+      ],
+      [
+        "Isabel María Eugenia Araña Lucero",
+        "Panama"
+      ],
+      [
+        "Kihn Club",
+        "Pinehurst, Massachusetts"
+      ],
+      [
+        "Loren Effertz",
+        "M"
+      ],
+      [
+        "Suffolk County",
+        "Yolanda Granados"
+      ],
+      [
+        "Leffler Osinski",
+        "S99957854"
+      ],
+      [
+        "Boston",
+        "Suffolk County"
+      ],
+      [
+        "Florinda Howe",
+        "Middlesex County"
+      ],
+      [
+        "Braintree",
+        "Norfolk County"
+      ],
+      [
+        "Massachusetts",
+        "Melissia Jacquelynn Kozey Mertz"
+      ],
+      [
+        "Normand Parker",
+        "white"
+      ],
+      [
+        "F",
+        "Melissia Jacquelynn Kozey Mertz"
+      ],
+      [
+        "Christie Cormier",
+        "Middlesex County"
+      ],
+      [
+        "Amherst",
+        "Hampshire County"
+      ],
+      [
+        "Kelley Mira Hudson Barrows",
+        "Mrs."
+      ],
+      [
+        "Berkshire County",
+        "Massachusetts"
+      ],
+      [
+        "Kelley Mira Hudson Barrows",
+        "Pittsfield"
+      ],
+      [
+        "Mr.",
+        "Normand Parker"
+      ],
+      [
+        "Christie Cormier",
+        "Marietta Cormier"
+      ],
+      [
+        "Amherst",
+        "Tod Leannon"
+      ],
+      [
+        "Panama",
+        "Panama City"
+      ],
+      [
+        "F",
+        "Marcie Phyliss Rolfson Mueller"
+      ],
+      [
+        "Mr.",
+        "Tod Leannon"
+      ],
+      [
+        "Considine Walk",
+        "Marcie Phyliss Rolfson Mueller"
+      ],
+      [
+        "Massachusetts",
+        "Suffolk County"
+      ],
+      [
+        "Kelley Mira Hudson Barrows",
+        "Schmidt Orchard"
+      ],
+      [
+        "Loren Effertz",
+        "Salem, Massachusetts"
+      ],
+      [
+        "Essex County",
+        "Salem"
+      ],
+      [
+        "Isabel María Eugenia Araña Lucero",
+        "Massachusetts"
+      ],
+      [
+        "Boston, Massachusetts",
+        "Yolanda Granados"
+      ],
+      [
+        "Melissia Jacquelynn Kozey Mertz",
+        "S99923364"
+      ],
+      [
+        "National District",
+        "Santo Domingo"
+      ],
+      [
+        "Braintree, Massachusetts, Norfolk County, 02184",
+        "Dulcie148 Valentina258 Haag279"
+      ],
+      [
+        "Beatty Viaduct",
+        "Leffler Osinski"
+      ],
+      [
+        "Erasmo Lesley Zboncak",
+        "Salem"
+      ],
+      [
+        "Runolfsdottir Grove",
+        "Scarlett Yost"
+      ],
+      [
+        "Melissia Jacquelynn Kozey Mertz",
+        "X10171148X"
+      ],
+      [
+        "Mansfield, Massachusetts, US",
+        "Shanel903 Voncile324 Quitzon246"
+      ],
+      [
+        "Isabel María Eugenia Araña Lucero",
+        "S99992235"
+      ],
+      [
+        "Effertz744",
+        "Loren Effertz"
+      ],
+      [
+        "Massachusetts",
+        "US"
+      ],
+      [
+        "M",
+        "Scarlett Yost"
+      ],
+      [
+        "Loren Effertz",
+        "Methuen, Massachusetts, US"
+      ],
+      [
+        "Florinda Howe",
+        "Mrs."
+      ],
+      [
+        "Christie Cormier",
+        "Mrs."
+      ],
+      [
+        "Normand Parker",
+        "Parker433"
+      ],
+      [
+        "Mattapoisett",
+        "Plymouth County"
+      ],
+      [
+        "F",
+        "Florinda Howe"
+      ],
+      [
+        "Leta Goldner",
+        "S99958069"
+      ],
+      [
+        "M",
+        "Normand Parker"
+      ],
+      [
+        "Massachusetts",
+        "Nantucket County"
+      ],
+      [
+        "Tod Leannon",
+        "nonhispanic"
+      ],
+      [
+        "Scarlett Yost",
+        "native"
+      ],
+      [
+        "Massachusetts",
+        "Nantucket"
+      ],
+      [
+        "Leffler Osinski",
+        "Mrs."
+      ],
+      [
+        "Erasmo Lesley Zboncak",
+        "nonhispanic"
+      ],
+      [
+        "F",
+        "Leta Goldner"
+      ],
+      [
+        "Bayamon, Puerto Rico, PR",
+        "Yolanda648 Catalina187 Santiago500"
+      ],
+      [
+        "Nonhispanic",
+        "White"
+      ],
+      [
+        "Florinda Howe",
+        "Francis Howe"
+      ],
+      [
+        "Florinda Howe",
+        "Francis500"
+      ],
+      [
+        "Christie Cormier",
+        "Nolan344"
+      ],
+      [
+        "Bristol County",
+        "Massachusetts"
+      ],
+      [
+        "Kelley Mira Hudson Barrows",
+        "S99962709"
+      ],
+      [
+        "Massachusetts",
+        "Tod Leannon"
+      ],
+      [
+        "Mattapoisett, Massachusetts, Plymouth County, 00000",
+        "Shanel903 Voncile324 Quitzon246"
+      ],
+      [
+        "Isabel María Eugenia Araña Lucero",
+        "white"
+      ],
+      [
+        "Foxborough, Massachusetts, US",
+        "Marinda Leffler"
+      ],
+      [
+        "Marinda Leffler",
+        "Phoebe Leffler"
+      ],
+      [
+        "Erasmo Lesley Zboncak",
+        "X82564822X"
+      ],
+      [
+        "Braintree",
+        "Leffler Osinski"
+      ],
+      [
+        "Capital District",
+        "Caracas"
+      ],
+      [
+        "Florinda Howe",
+        "nonhispanic"
+      ],
+      [
+        "Isabel María Eugenia Araña Lucero",
+        "M"
+      ],
+      [
+        "Leta Goldner",
+        "Mrs."
+      ],
+      [
+        "Hampshire County",
+        "Massachusetts"
+      ],
+      [
+        "Marinda Leffler",
+        "white"
+      ],
+      [
+        "Larson Approach Apt 56",
+        "Salem, Massachusetts"
+      ],
+      [
+        "Christie Cormier",
+        "nonhispanic"
+      ],
+      [
+        "Normand Parker",
+        "Pinehurst, Massachusetts"
+      ],
+      [
+        "Burlington, Massachusetts",
+        "Franecki Lodge Suite 66"
+      ],
+      [
+        "Marinda Leffler",
+        "Norfolk County"
+      ],
+      [
+        "Leffler Osinski",
+        "nonhispanic"
+      ],
+      [
+        "Leta Goldner",
+        "Nantucket County"
+      ],
+      [
+        "Erasmo Lesley Zboncak",
+        "Mr."
+      ],
+      [
+        "Loren Effertz",
+        "Stewart Effertz"
+      ],
+      [
+        "Middlesex County",
+        "Pinehurst"
+      ],
+      [
+        "Burlington, Massachusetts",
+        "Runte Meadow"
+      ],
+      [
+        "449 Hayes Flat",
+        "Hayes Flat"
+      ],
+      [
+        "Florinda Howe",
+        "Goodwin327"
+      ],
+      [
+        "Leta Goldner",
+        "Nantucket"
+      ],
+      [
+        "Christie Cormier",
+        "Winthrop, Massachusetts, US"
+      ],
+      [
+        "Tod Leannon",
+        "white"
+      ],
+      [
+        "Yolanda Granados",
+        "white"
+      ],
+      [
+        "F",
+        "Yolanda Granados"
+      ],
+      [
+        "Nantucket",
+        "Nantucket County"
+      ],
+      [
+        "Bayamon",
+        "Puerto Rico"
+      ],
+      [
+        "East Sandwich",
+        "Melissia Jacquelynn Kozey Mertz"
+      ],
+      [
+        "170 Kihn Club Apt 8",
+        "Apt 8"
+      ],
+      [
+        "322 Franecki Lodge Suite 66",
+        "Franecki Lodge Suite 66"
+      ],
+      [
+        "Tod Leannon",
+        "Turcotte Walk"
+      ],
+      [
+        "Massachusetts",
+        "North Plymouth"
+      ],
+      [
+        "Florinda Howe",
+        "Howe413"
+      ],
+      [
+        "Luz Granados",
+        "Yolanda Granados"
+      ],
+      [
+        "Norfolk County",
+        "Quincy"
+      ],
+      [
+        "Bristol County",
+        "Scarlett Yost"
+      ],
+      [
+        "Leta Goldner",
+        "nonhispanic"
+      ],
+      [
+        "Foxborough",
+        "Leffler Osinski"
+      ],
+      [
+        "Kelley Mira Hudson Barrows",
+        "nonhispanic"
+      ],
+      [
+        "Kelley Mira Hudson Barrows",
+        "Massachusetts"
+      ],
+      [
+        "Burlington",
+        "Middlesex County"
+      ],
+      [
+        "Erasmo Lesley Zboncak",
+        "Kemmer Branch"
+      ],
+      [
+        "Essex County",
+        "Massachusetts"
+      ],
+      [
+        "Massachusetts",
+        "Scarlett Yost"
+      ],
+      [
+        "Hispanic",
+        "White"
+      ],
+      [
+        "Florinda Howe",
+        "white"
+      ],
+      [
+        "Flatley Branch",
+        "Melissia Jacquelynn Kozey Mertz"
+      ],
+      [
+        "M",
+        "Marcie Phyliss Rolfson Mueller"
+      ],
+      [
+        "Massachusetts",
+        "Norfolk County"
+      ],
+      [
+        "Marcie Phyliss Rolfson Mueller",
+        "Mrs."
+      ],
+      [
+        "Scarlett Yost",
+        "X53220991X"
+      ],
+      [
+        "Leffler128",
+        "Marinda Leffler"
+      ],
+      [
+        "Berkshire County",
+        "Kelley Mira Hudson Barrows"
+      ],
+      [
+        "Erasmo Lesley Zboncak",
+        "Massachusetts"
+      ],
+      [
+        "Loren Effertz",
+        "nonhispanic"
+      ],
+      [
+        "Kelley Mira Hudson Barrows",
+        "X49359161X"
+      ],
+      [
+        "Lowell, Massachusetts, US",
+        "Samella245 Leta870 Goldner995"
+      ],
+      [
+        "Boston",
+        "Isabel María Eugenia Araña Lucero"
+      ],
+      [
+        "Leffler Osinski",
+        "white"
+      ],
+      [
+        "492 Larson Approach Apt 56",
+        "Larson Approach Apt 56"
+      ],
+      [
+        "Essex County",
+        "Loren Effertz"
+      ],
+      [
+        "Erasmo Lesley Zboncak",
+        "S99992044"
+      ],
+      [
+        "Burlington",
+        "Marcie Phyliss Rolfson Mueller"
+      ],
+      [
+        "Leffler Osinski",
+        "X60345039X"
+      ],
+      [
+        "Caracas, Capital District, VE",
+        "Yolanda Granados"
+      ]
+    ],
+    "count": 220,
+    "create_time": 1759307523,
+    "update_time": 1759307523,
+    "_id": "doc-6a10f3f0ff3b913a4a81a3edc88d5ef1"
+  }
+}

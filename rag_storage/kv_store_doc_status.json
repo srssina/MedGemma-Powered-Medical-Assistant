@@ -1,0 +1,131 @@
+{
+  "doc-1866965ecb03c325fb042a6a116cbcfe": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-1866965ecb03c325fb042a6a116cbcfe"
+    ],
+    "content_summary": "START,STOP,PATIENT,ENCOUNTER,CODE,SYSTEM,DESCRIPTION,TYPE,CATEGORY,REACTION1,DESCRIPTION1,SEVERITY1,REACTION2,DESCRIPTION2,SEVERITY2\n2024-12-25,,1739419d-98e4-5f73-8b83-aa414dcf46a3,27922ec8-28bf-425c-eda0-0f75c740180d,609328004,SNOMED-CT,Allergic di...",
+    "content_length": 426,
+    "created_at": "2025-10-01T07:34:54.617193+00:00",
+    "updated_at": "2025-10-01T07:35:09.641273+00:00",
+    "file_path": "allergies.csv",
+    "track_id": "upload_20251001_110454_b8f9975f",
+    "metadata": {
+      "processing_start_time": 1759304094,
+      "processing_end_time": 1759304109
+    }
+  },
+  "doc-19bae731b3d21ce5ce34d6d17c9c4d92": {
+    "status": "processed",
+    "chunks_count": 8,
+    "chunks_list": [
+      "chunk-c0b1d474e8465ff2e85c6d7a7e0b9680",
+      "chunk-ae6fee483978b08c6938e3835cf94484",
+      "chunk-11c31011fde6015101022b8a8dcd0492",
+      "chunk-84124e345805bbe77cd1201eb239eb92",
+      "chunk-d0460fe0a8c6f78e9602530ab971aa54",
+      "chunk-3b8ef2ad05004548b130b7d14e3f8312",
+      "chunk-c3cccdc78ef1dc5a151c6b9753cce607",
+      "chunk-39f52f521489e55a9d1cac5dae1a44c3"
+    ],
+    "content_summary": "Id,START,STOP,PATIENT,ENCOUNTER,CODE,DESCRIPTION,REASONCODE,REASONDESCRIPTION\nd3699e30-11f1-e4e3-079e-ac8b20883578,2020-10-10,2020-10-30,1603f9c6-c49e-358f-cc1c-4c92c7924dbd,9a3bd81a-cb80-b1fa-3203-2f147d65a1ce,737471002,Minor surgery care management...",
+    "content_length": 15610,
+    "created_at": "2025-10-01T07:34:54.822939+00:00",
+    "updated_at": "2025-10-01T07:38:03.311536+00:00",
+    "file_path": "careplans.csv",
+    "track_id": "upload_20251001_110454_5104c7fa",
+    "metadata": {
+      "processing_start_time": 1759304109,
+      "processing_end_time": 1759304283
+    }
+  },
+  "doc-3012b2083629591b5a20c0d6d9a6d69e": {
+    "status": "processed",
+    "chunks_count": 53,
+    "chunks_list": [
+      "chunk-2c9f7a57d548171a4c07a72ccc443aab",
+      "chunk-3e0a702a6a0e964c2a19c437f0f0f477",
+      "chunk-a33750ddf7fe08e9f692cc5aae079b70",
+      "chunk-9da7a5ef7c3d437fe6c40b8bd64c1db6",
+      "chunk-9d8931f59d6967f36af9980763a5debe",
+      "chunk-50b38fe21bc35b69d8d16725792418c2",
+      "chunk-3770e1ea72ae7b3882373156d1275817",
+      "chunk-06c24c1744600f013ed4dd7abc3f313e",
+      "chunk-902a3a61534a5533830434ae4db5c1a0",
+      "chunk-296aef21c53f214e12999fc41d4e3429",
+      "chunk-492b326439b8afee5242698b67191b4b",
+      "chunk-ad4eac7bb9f79b4949031dbe55c74139",
+      "chunk-9b6302456433480386de531e88e5c8d1",
+      "chunk-6dae460670f2cd245ca60ab37fdf8bf6",
+      "chunk-aabf1e195405b112ceadd1462d1d967a",
+      "chunk-3ef2e61214b44e18c6e4e2819eefc1a0",
+      "chunk-22e9b1eae0c6c46c08eeb300eebcd8c6",
+      "chunk-82e2ad364b7b85341c57fdd114690f57",
+      "chunk-a965f5377a62ad4fb7cc20e877721f30",
+      "chunk-322dfc773bdf9d33a9b9b887a51185af",
+      "chunk-02df6744362c2e14c3896653813e36f6",
+      "chunk-f80243a59a70e67d9b3f7a06855c2695",
+      "chunk-c774e1054097f54a4f569589ccba358c",
+      "chunk-3fa9b624ce28247f79413775f2943134",
+      "chunk-6570e659afa424f60a5d732a9ce8090e",
+      "chunk-668cbf3594e42116ba6b72064e8c9b93",
+      "chunk-23b963da5e926e20b38baeddbddd2b37",
+      "chunk-eebf533ad9edabb59190b0e3790843d7",
+      "chunk-18af7cce870898111cf556e7e0efdccb",
+      "chunk-15a00b1db0efa4a258074a4021ee19e6",
+      "chunk-883a02dfb37ed34dafb0c5ff79485483",
+      "chunk-d1757e14333d9316dd6f0bbc584a783c",
+      "chunk-e146f856bd132c25d2f3b47bfb8e7031",
+      "chunk-871a9417f6fc03334aa9c011a4a512aa",
+      "chunk-0dcdb5c98f0baa490ee6e53d4bd94b92",
+      "chunk-1a5c717333d9115d6c2a03717ef3e247",
+      "chunk-79fbc429f9cf22672eeed274d7070d88",
+      "chunk-201a69ef185d8ebe4361d4ae7dc0d86e",
+      "chunk-1f5ae179fede96225620e1e36881bc41",
+      "chunk-fb9de9151d5f094339103c0f7e5b48e1",
+      "chunk-81a362c363d6efab2c09d76a527e1676",
+      "chunk-d96ace8d9682c9c604fbcff3e0bcaf5d",
+      "chunk-d651e587cf2ba2f03c0e91dfe0a1d66a",
+      "chunk-1f3f4d3e7f0d1b614a419783d072712b",
+      "chunk-fa2b0934c8adbe5454d223a3623d170c",
+      "chunk-109c0898d65539038fe380cab0cb9d75",
+      "chunk-8bdb5f929ccabf699f9bd3eca47d506d",
+      "chunk-1c00662e5eb1d8add3edc85c5d97d10f",
+      "chunk-588e744887433c987c5791d864203db9",
+      "chunk-46da7e1afcb596eaf03a4e98ad3c2ab3",
+      "chunk-593aa8e7ac228d5a4d340be5dedcd1f4",
+      "chunk-34447ece84134b7c3eabcdd9e7ef797d",
+      "chunk-dfa6fbbd8e089d5105a1dcc06c709b76"
+    ],
+    "content_summary": "START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION\n2012-01-14,,1603f9c6-c49e-358f-cc1c-4c92c7924dbd,9fb95994-1ade-0444-fe7f-5dba4566202b,http://snomed.info/sct,160968000,Risk activity involvement (finding)\n2013-01-19,,1603f9c6-c49e-358f-cc1c-4c92c7...",
+    "content_length": 116999,
+    "created_at": "2025-10-01T07:34:54.833209+00:00",
+    "updated_at": "2025-10-01T07:56:54.711366+00:00",
+    "file_path": "conditions.csv",
+    "track_id": "upload_20251001_110454_49a64fca",
+    "metadata": {
+      "processing_start_time": 1759304109,
+      "processing_end_time": 1759305414
+    }
+  },
+  "doc-6a10f3f0ff3b913a4a81a3edc88d5ef1": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-b8bb35ead4a3aef57193457e21f2d89f",
+      "chunk-0c6edfc80bd624a93fff2d787e5af3bd",
+      "chunk-b09e711a0bd57b4ade9929b368521389"
+    ],
+    "content_summary": "Id,BIRTHDATE,DEATHDATE,SSN,DRIVERS,PASSPORT,PREFIX,FIRST,MIDDLE,LAST,SUFFIX,MAIDEN,MARITAL,RACE,ETHNICITY,GENDER,BIRTHPLACE,ADDRESS,CITY,STATE,COUNTY,FIPS,ZIP,LAT,LON,HEALTHCARE_EXPENSES,HEALTHCARE_COVERAGE,INCOME\n1603f9c6-c49e-358f-cc1c-4c92c7924dbd...",
+    "content_length": 7036,
+    "created_at": "2025-10-01T08:30:37.200413+00:00",
+    "updated_at": "2025-10-01T08:32:03.755746+00:00",
+    "file_path": "patients.csv",
+    "track_id": "upload_20251001_120037_34cb83db",
+    "metadata": {
+      "processing_start_time": 1759307437,
+      "processing_end_time": 1759307523
+    }
+  }
+}
