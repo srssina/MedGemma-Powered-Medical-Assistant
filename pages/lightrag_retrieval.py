@@ -22,6 +22,37 @@ with st.expander('Retrieval Parameters', expanded=False):
     only_need_prompt = st.checkbox('Only Need Prompt', value=False)
     stream_response = st.checkbox('Stream Response', value=True)
 
+# 👇 Set your specific folder path here
+FOLDER_PATH = "../Healthcare-Assisstant-Dashboard/inputs"
+
+def render_folder(path):
+    """Render PDFs as clickable buttons (links) in sidebar"""
+    items = sorted(os.listdir(path))
+    for item in items:
+        item_path = os.path.join(path, item)
+        if os.path.isdir(item_path):
+            with st.sidebar.expander("📂 " + item, expanded=False):
+                render_folder(item_path)
+        elif item.lower().endswith(".csv"):
+            pdf_path = os.path.abspath(item_path)
+            # Fake button using HTML <a> tag styled as Streamlit button
+            st.sidebar.markdown(
+                f"""
+                <a href="file://{pdf_path}" target="_blank">
+                    <button style="width: 100%; padding: 6px; border-radius: 6px; border: none; background-color: #f63366; color: white; cursor: pointer;">
+                        📄 {item}
+                    </button>
+                </a>
+                """,
+                unsafe_allow_html=True,
+            )
+
+if os.path.exists(FOLDER_PATH):
+    st.sidebar.header("📂 Uploaded files")
+    render_folder(FOLDER_PATH)
+else:
+    st.sidebar.error(f"Path does not exist: {FOLDER_PATH}")
+
 # Chat history
 if 'lightrag_chat_history' not in st.session_state:
     st.session_state['lightrag_chat_history'] = []

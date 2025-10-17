@@ -21,7 +21,7 @@ max_tokens = st.sidebar.slider('Max Tokens', min_value=1, max_value=4096, value=
 
 
 # 👇 Set your specific folder path here
-FOLDER_PATH = "../medical/inputs"
+FOLDER_PATH = "../Healthcare-Assisstant-Dashboard/inputs"
 
 def render_folder(path):
     """Render PDFs as clickable buttons (links) in sidebar"""
@@ -52,7 +52,7 @@ else:
     st.sidebar.error(f"Path does not exist: {FOLDER_PATH}")
 
 # Initialize session variables
-SYSTEM_PROMPT = "You are a helpful medical assistant. Always provide clear, accurate, and empathetic responses to user queries."
+SYSTEM_PROMPT = "You are a healthcare information assistant. Provide factual, educational information based on publicly available health guidance (CDC, WHO, NHS). Always include a disclaimer that this is not medical advice."
 LIGHTRAG_CHUNKS_PATH = os.path.join(os.path.dirname(__file__), '..', 'rag_storage', 'kv_store_text_chunks.json')
 
 if 'messages' not in st.session_state:
